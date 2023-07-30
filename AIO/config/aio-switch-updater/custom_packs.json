@@ -3,9 +3,6 @@
         "Ultra 4IFIR": "https://github.com/redraz/Ultra-4ifir/releases/latest/download/Ultra-4IFIR.zip"
     },
     "misc": {
-        "Stage 8": "https://sintez.io/ST.zip",
-		"Stage 8+": "https://sintez.io/ST+.zip",
-		"4MODS": "https://sintez.io/4MODS.zip",
-        "Refresh": "https://sintez.io/AIO.zip"
+        "Refresh": "https://github.com/redraz/Ultra-4ifir/raw/main/AIO/AIO.zip"
     }
 }
