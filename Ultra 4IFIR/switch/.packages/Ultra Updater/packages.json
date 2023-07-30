@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Cool Curves - latest",
+        "label": "Cool Curves",
+        "file-1-url": "https://raw.githubusercontent.com/ppkantorski/Ultrahand-Overlay/main/examples/Cool%20Curves/config.ini"
+    },
+    {
+        "name": "Ultra Tuner - latest",
+        "label": "Ultra Tuner",
+        "file-1-url": "https://raw.githubusercontent.com/redraz/Ultimate-4ifir-Tuner/main/Ultra%20Tuner%20Test/"
+    }
+]
