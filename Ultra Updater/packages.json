@@ -1,12 +1,13 @@
 [
     {
-        "name": "Cool Curves - latest",
-        "label": "Cool Curves",
-        "file-1-url": "https://raw.githubusercontent.com/ppkantorski/Ultrahand-Overlay/main/examples/Cool%20Curves/config.ini"
-    },
-    {
         "name": "Ultra Tuner - latest",
         "label": "Ultra Tuner",
         "file-1-url": "https://github.com/redraz/Ultra-4ifir/raw/main/Ultra%20Tuner/Ultra%20Tuner.zip"
+    },
+    {
+        "name": "Ultra Updater - latest",
+        "label": "Ultra Updater",
+        "file-1-url": "https://github.com/redraz/Ultra-4ifir/raw/main/Ultra%20Updater/Ultra%20Updater.zip"
     }
+
 ]
