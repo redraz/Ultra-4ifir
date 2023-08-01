@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Set 2524MHz",
+        "hex": "608326"
+    },
+    {
+        "name": "Set 2540MHz",
+        "hex": "E0C126"
+    },
+    {
+        "name": "Set 2556MHz - Base",
+        "hex": "600027"
+    },
+    {
+        "name": "Set 2572MHz",
+        "hex": "E03E27"
+    },
+    {
+        "name": "Set 2588MHz",
+        "hex": "607D27"
+    },
+    {
+        "name": "Set 2604MHz",
+        "hex": "E0BB27"
+    },
+    {
+        "name": "Set 2620MHz",
+        "hex": "60FA27"
+    },
+    {
+        "name": "Set 2636MHz",
+        "hex": "E03828"
+    },
+    {
+        "name": "Set 2652MHz",
+        "hex": "607728"
+    },
+    {
+        "name": "Set 2668MHz",
+        "hex": "E0B528"
+    },
+    {
+        "name": "Set 2680MHz",
+        "hex": "E0E728"
+    },
+    {
+        "name": "Set 2690MHz - ST8",
+        "hex": "600D29"
+    },
+    {
+        "name": "Set 2700MHz - ST  ",
+        "hex": "E03229"
+    },
+    {
+        "name": "Set 2716MHz",
+        "hex": "607129"
+    },
+    {
+        "name": "Set 2732MHz",
+        "hex": "E0AF29"
+    },
+    {
+        "name": "Set 2748MHz",
+        "hex": "60EE29"
+    },
+    {
+        "name": "Set 2764MHz - ST+",
+        "hex": "E02C2A"
+    },
+    {
+        "name": "Set 2780MHz",
+        "hex": "606B2A"
+    },
+    {
+        "name": "Set 2796MHz",
+        "hex": "E0A92A"
+    },
+    {
+        "name": "Set 2812MHz",
+        "hex": "60E82A"
+    },
+    {
+        "name": "Set 2828MHz",
+        "hex": "E0262B"
+    },
+    {
+        "name": "Set 2844MHz",
+        "hex": "60652B"
+    },
+    {
+        "name": "Set 2860MHz - Ultra",
+        "hex": "E0A32B"
+    }
+]
