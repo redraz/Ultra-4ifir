@@ -1,0 +1,67 @@
+name: Create Release
+
+on:
+  workflow_dispatch:
+    
+jobs:
+  create_release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Install zip
+        run: sudo apt-get install zip
+      - name: Create archive
+        run: |
+          zip -r Ultra.4IFIR.zip "Ultra 4IFIR"
+          zip -r AIO.zip "AIO"
+          zip -r Ultra.Tuner.zip "Ultra Tuner"
+          zip -r Ultra.Updater.zip "Ultra Updater"
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: v1.0.0
+          release_name: Release 1.0.0
+          body: |
+            Description of the release
+          draft: true
+          prerelease: false
+      - name: Upload 4IFIR.zip
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./Ultra.4IFIR.zip
+          asset_name: Ultra.4IFIR.zip
+          asset_content_type: application/zip
+      - name: Upload AIO.zip
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./AIO.zip
+          asset_name: AIO.zip
+          asset_content_type: application/zip
+      - name: Upload Tuner.zip
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./Ultra.Tuner.zip
+          asset_name: Ultra.Tuner.zip
+          asset_content_type: application/zip
+      - name: Upload Updater.zip
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./Ultra.Updater.zip
+          asset_name: Ultra.Updater.zip
+          asset_content_type: application/zip
