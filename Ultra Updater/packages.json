@@ -2,12 +2,12 @@
     {
         "name": "Ultra Tuner - latest",
         "label": "Ultra Tuner",
-        "file-1-url": "https://github.com/redraz/Ultra-4ifir/releases/latest/download/Ultra.Tuner.zip"
+        "file-1-url": "https://github.com/redraz/Ultra-4ifir/raw/main/Ultra%20Tuner/Ultra%20Tuner.zip"
     },
     {
         "name": "Ultra Updater - latest",
         "label": "Ultra Updater",
-        "file-1-url": "https://github.com/redraz/Ultra-4ifir/releases/latest/download/Ultra.Updater.zip"
+        "file-1-url": "https://github.com/redraz/Ultra-4ifir/raw/main/Ultra%20Updater/Ultra%20Updater.zip"
     }
 
 ]
