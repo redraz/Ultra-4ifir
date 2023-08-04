@@ -40,9 +40,19 @@
         "file-1-url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/battery_desync_fix.zip"
     },
     {
+        "name": "Battery Desync Fix - 1.2.1",
+        "label": "Battery Desync Fix",
+        "file-1-url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/daybreak.zip"
+    },
+    {
         "name": "mhz - 1.0.0",
         "label": "mhz",
         "file-1-url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/mhz-1.0.0.zip"
+    },
+    {
+        "name": "mhz - 1.0.0",
+        "label": "mhz",
+        "file-1-url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/clkrst_query.zip"
     },
     {
         "name": "HB App Store - 2.3.2",
