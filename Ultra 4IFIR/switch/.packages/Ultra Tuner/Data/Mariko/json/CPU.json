@@ -1,5 +1,13 @@
 [
     {
+        "name": "Set 1100mV",
+        "hex": "4C04"
+    },
+    {
+        "name": "Set 1120mV",
+        "hex": "6004"
+    },
+    {
         "name": "Set 1140mV",
         "hex": "7404"
     },
@@ -24,7 +32,7 @@
         "hex": "A604"
     },
     {
-        "name": "Set 1200mV - ST  ",
+        "name": "Set 1200mV - ST8/8+",
         "hex": "B004"
     },
     {
@@ -36,8 +44,12 @@
         "hex": "C404"
     },
     {
-        "name": "Set 1235mV - Ultra",
+        "name": "Set 1235mV - ST9",
         "hex": "D304"
+    },
+    {
+        "name": "Set 1250mV - Ultra",
+        "hex": "E204"
     }
 ]
 

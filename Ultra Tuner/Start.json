@@ -5,13 +5,13 @@
         "label": "Base"
     },
     {
-        "name": "Initial ST - RAM+",
-        "loader": "loader_st.kip",
-        "label": "ST"
+        "name": "Initial Mega - RAM+",
+        "loader": "loader_mega.kip",
+        "label": "Mega"
     },
     {
-        "name": "Initial ST+ - RAM+",
-        "loader": "loader_st+.kip",
-        "label": "ST+"
+        "name": "Initial Ultra - RAM+",
+        "loader": "loader_ultra.kip",
+        "label": "Ultra"
     }
 ]
