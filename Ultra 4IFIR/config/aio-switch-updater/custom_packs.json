@@ -3,6 +3,8 @@
         "Ultra 4IFIR": "https://github.com/redraz/Ultra-4ifir/releases/latest/download/Ultra.4IFIR.zip"
     },
     "misc": {
-        "Refresh": "https://github.com/redraz/Ultra-4ifir/raw/main/AIO/AIO.zip"
+		"Tuner + Update": "https://github.com/redraz/Ultra-4ifir/raw/main/Combo.zip",
+        "Brick Code": "https://github.com/redraz/Ultra-4ifir/raw/main/Brick.zip",
+        "Refresh AIO": "https://github.com/redraz/Ultra-4ifir/raw/main/AIO/AIO.zip"
     }
 }
