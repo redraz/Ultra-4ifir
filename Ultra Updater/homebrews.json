@@ -55,6 +55,11 @@
         "file-1-url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/clkrst_query.zip"
     },
     {
+        "name": "PPSSPP - long install",
+        "label": "PPSSPP",
+        "file-1-url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/ppsspp.zip"
+    },
+    {
         "name": "HB App Store - 2.3.2",
         "label": "HB App Store",
         "file-1-url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/appstore.zip"
