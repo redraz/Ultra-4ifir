@@ -13,5 +13,10 @@
         "name": "Initial Ultra - RAM+",
         "loader": "loader_ultra.kip",
         "label": "Ultra"
+    },
+    {
+        "name": "Initial Test - RAM+",
+        "loader": "loader_test.kip",
+        "label": "Test"
     }
 ]
