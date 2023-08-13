@@ -84,7 +84,7 @@
         "hex": "60E82A"
     },
     {
-        "name": "Set 2828MHz",
+        "name": "Set 2828MHz - ST9",
         "hex": "E0262B"
     },
     {
@@ -112,7 +112,7 @@
         "hex": "E09D2C"
     },
     {
-        "name": "Set 2930MHz - ST9",
+        "name": "Set 2930MHz - STX",
         "hex": "E0B62C"
     },
     {

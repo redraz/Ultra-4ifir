@@ -1,6 +1,14 @@
 [
     {
-        "name": "Set 1150mV - Danger",
+        "name": "Set 1100mV - Danger",
+        "hex": "E0C810"
+    },
+    {
+        "name": "Set 1125mV - Danger",
+        "hex": "882A11"
+    },
+    {
+        "name": "Set 1150mV - Unsafe",
         "hex": "308C11"
     },
     {
