@@ -1,10 +1,22 @@
 [
     {
-        "name": "Set 580mV - Danger",
-        "hex": "A02526"
+        "name": "Set 550mV - Danger",
+        "hex": "706408"
     },
     {
-        "name": "Set 590mV - Danger",
+        "name": "Set 560mV - Danger",
+        "hex": "808B08"
+    },
+    {
+        "name": "Set 570mV - Danger",
+        "hex": "90B208"
+    },
+    {
+        "name": "Set 580mV - Unsafe",
+        "hex": "A0D908"
+    },
+    {
+        "name": "Set 590mV - Unsafe",
         "hex": "B00009"
     },
     {
@@ -30,5 +42,25 @@
     {
         "name": "Set 650mV - Ultra",
         "hex": "10EB09"
+    },
+    {
+        "name": "Set 660mV",
+        "hex": "20120A"
+    },
+    {
+        "name": "Set 670mV",
+        "hex": "30390A"
+    },
+    {
+        "name": "Set 680mV",
+        "hex": "40600A"
+    },
+    {
+        "name": "Set 690mV",
+        "hex": "50870A"
+    },
+    {
+        "name": "Set 700mV - ST9",
+        "hex": "60AE0A"
     }
 ]
