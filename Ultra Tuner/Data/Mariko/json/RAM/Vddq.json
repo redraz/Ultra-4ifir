@@ -32,7 +32,7 @@
         "hex": "E07509"
     },
     {
-        "name": "Set 630mV",
+        "name": "Set 630mV - ST",
         "hex": "F09C09"
     },
     {
@@ -60,7 +60,7 @@
         "hex": "50870A"
     },
     {
-        "name": "Set 700mV - ST9",
+        "name": "Set 700mV - STX",
         "hex": "60AE0A"
     }
 ]
