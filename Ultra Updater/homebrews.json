@@ -1,62 +1,50 @@
 [
     {
-        "name": "DBI RU - 605",
-        "label": "DBI RU",
-        "file-1-url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/DBI%20RU.zip"
+        "name": "DBI RU - 610",
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/DBI%20RU.zip"
     },
     {
         "name": "DBI EN - 598",
-        "label": "DBI EN",
-        "file-1-url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/DBI%20EN.zip"
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/DBI%20EN.zip"
     },
     {
         "name": "MicroMemBench - 0.5.1",
-        "label": "MicroMemBench",
-        "file-1-url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/MicroMemBench.zip"
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/MicroMemBench.zip"
     },
     {
         "name": "MicroMemTest - 5.0.0",
-        "label": "MicroMemTest",
-        "file-1-url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/MicroMemTest.zip"
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/MicroMemTest.zip"
     },
     {
         "name": "ReverseNX Tool - 3.1.2",
-        "label": "ReverseNX Tool",
-        "file-1-url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/ReverseNX-Tool.zip"
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/ReverseNX-Tool.zip"
     },
     {
         "name": "SysDVR conf - 5.5",
-        "label": "SysDVR conf",
-        "file-1-url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/SysDVR-conf.zip"
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/SysDVR-conf.zip"
     },
     {
         "name": "Fizeau - 2.4.1",
-        "label": "Fizeau",
-        "file-1-url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/Fizeau.zip"
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/Fizeau.zip"
     },
     {
         "name": "Battery Desync Fix - 1.2.1",
-        "label": "Battery Desync Fix",
-        "file-1-url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/battery_desync_fix.zip"
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/battery_desync_fix.zip"
     },
     {
         "name": "Daybreak - 1.0.0",
-        "label": "Battery Desync Fix",
-        "file-1-url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/daybreak.zip"
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/daybreak.zip"
     },
     {
         "name": "mhz - 1.0.0",
-        "label": "mhz",
-        "file-1-url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/mhz-1.0.0.zip"
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/mhz-1.0.0.zip"
     },
     {
         "name": "clkrst_query - 1.0.0",
-        "label": "clkrst_query",
-        "file-1-url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/clkrst_query.zip"
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/clkrst_query.zip"
     },
     {
         "name": "HB App Store - 2.3.2",
-        "label": "HB App Store",
-        "file-1-url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/appstore.zip"
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/appstore.zip"
     }
 ]
