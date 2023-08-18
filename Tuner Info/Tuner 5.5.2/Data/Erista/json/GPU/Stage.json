@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Set GPU ST",
+        "hex": "01"
+    },
+    {
+        "name": "Set GPU Base",
+        "hex": "00"
+    }
+]

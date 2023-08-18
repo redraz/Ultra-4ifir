@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Set 1200mV",
+        "hex": "B004"
+    },
+    {
+        "name": "Set 1235mV - Base",
+        "hex": "D304"
+    },
+    {
+        "name": "Set 1250mV",
+        "hex": "E204"
+    },
+    {
+        "name": "Set 1270mV - ST8",
+        "hex": "F604"
+    },
+    {
+        "name": "Set 1300mV",
+        "hex": "1405"
+    },
+    {
+        "name": "Set 1320mV - ST8+",
+        "hex": "2805"
+    },
+    {
+        "name": "Set 1350mV",
+        "hex": "4605"
+    }
+]
