@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Set 1200mV - 1.6 ",
+        "hex": "E0C810"
+    },
+    {
+        "name": "Set 1225mV",
+        "hex": "882A11"
+    },
+    {
+        "name": "Set 1250mV - Placebo",
+        "hex": "308C11"
+    },
+    {
+        "name": "Set 1275mV",
+        "hex": "D8ED11"
+    },
+    {
+        "name": "Set 1300mV - Ultra",
+        "hex": "804F12"
+    },
+    {
+        "name": "Set 1325mV",
+        "hex": "28B112"
+    },
+    {
+        "name": "Set 1350mV",
+        "hex": "D01213"
+    }
+]

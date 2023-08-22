@@ -1,0 +1,126 @@
+[
+    {
+        "name": "Set 2131MHz",
+        "hex": "008520"
+    },
+    {
+        "name": "Set 2150MHz",
+        "hex": "00D020"
+    },
+    {
+        "name": "Set 2169MHz",
+        "hex": "001B21"
+    },
+    {
+        "name": "Set 2188MHz",
+        "hex": "006621"
+    },
+    {
+        "name": "Set 2208MHz",
+        "hex": "00B121"
+    },
+    {
+        "name": "Set 2227MHz",
+        "hex": "00FC21"
+    },
+    {
+        "name": "Set 2246MHz",
+        "hex": "004722"
+    },
+    {
+        "name": "Set 2265MHz - Base",
+        "hex": "009222"
+    },
+    {
+        "name": "Set 2284MHz",
+        "hex": "00DD22"
+    },
+    {
+        "name": "Set 2304MHz",
+        "hex": "002823"
+    },
+    {
+        "name": "Set 2323MHz",
+        "hex": "007323"
+    },
+    {
+        "name": "Set 2342MHz",
+        "hex": "00BE23"
+    },
+    {
+        "name": "Set 2361MHz",
+        "hex": "000924"
+    },
+    {
+        "name": "Set 2380MHz",
+        "hex": "005424"
+    },
+    {
+        "name": "Set 2400MHz - ST8/8+",
+        "hex": "009F24"
+    },
+    {
+        "name": "Set 2419MHz",
+        "hex": "00EA24"
+    },
+    {
+        "name": "Set 2438MHz",
+        "hex": "003525"
+    },
+    {
+        "name": "Set 2457MHz",
+        "hex": "008025"
+    },
+    {
+        "name": "Set 2476MHz - Ultra",
+        "hex": "00CB25"
+    },
+    {
+        "name": "Set 2496MHz - ST9+",
+        "hex": "001626"
+    },
+    {
+        "name": "Set 2515MHz",
+        "hex": "006126"
+    },
+    {
+        "name": "Set 2534MHz",
+        "hex": "00AC26"
+    },
+    {
+        "name": "Set 2553MHz",
+        "hex": "00F726"
+    },
+    {
+        "name": "Set 2572MHz",
+        "hex": "004227"
+    },
+    {
+        "name": "Set 2592MHz",
+        "hex": "008D27"
+    },
+    {
+        "name": "Set 2611MHz",
+        "hex": "00D827"
+    },
+    {
+        "name": "Set 2630MHz - STX",
+        "hex": "002328"
+    },
+    {
+        "name": "Set 2649MHz",
+        "hex": "006E28"
+    },
+    {
+        "name": "Set 2668MHz",
+        "hex": "00B928"
+    },
+    {
+        "name": "Set 2688MHz",
+        "hex": "000429"
+    },
+    {
+        "name": "Set 2707MHz - Serious?",
+        "hex": "004F29"
+    }
+]
