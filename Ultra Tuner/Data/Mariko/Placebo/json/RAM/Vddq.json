@@ -28,11 +28,11 @@
         "hex": "D04E09"
     },
     {
-        "name": "Set 620mV - Base",
+        "name": "Set 620mV",
         "hex": "E07509"
     },
     {
-        "name": "Set 630mV - ST",
+        "name": "Set 630mV - 1.7",
         "hex": "F09C09"
     },
     {

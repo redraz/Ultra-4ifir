@@ -1,6 +1,6 @@
 [
     {
-        "name": "Set 1200mV - 1.6 ",
+        "name": "Set 1200mV",
         "hex": "E0C810"
     },
     {
@@ -8,7 +8,7 @@
         "hex": "882A11"
     },
     {
-        "name": "Set 1250mV - Placebo",
+        "name": "Set 1250mV - ST",
         "hex": "308C11"
     },
     {
@@ -16,7 +16,7 @@
         "hex": "D8ED11"
     },
     {
-        "name": "Set 1300mV - Ultra",
+        "name": "Set 1300mV - Base",
         "hex": "804F12"
     },
     {

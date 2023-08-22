@@ -32,7 +32,7 @@
         "hex": "A604"
     },
     {
-        "name": "Set 1200mV - ST8/8+",
+        "name": "Set 1200mV - Ultra",
         "hex": "B004"
     },
     {
@@ -44,11 +44,11 @@
         "hex": "C404"
     },
     {
-        "name": "Set 1235mV - ST9",
+        "name": "Set 1235mV - ST9+",
         "hex": "D304"
     },
     {
-        "name": "Set 1250mV - Ultra",
+        "name": "Set 1250mV",
         "hex": "E204"
     }
 ]

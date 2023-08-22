@@ -1,10 +1,14 @@
 [
     {
         "name": "Set GPU Stage",
-        "hex": "01"
+        "hex": "02"
     },
     {
         "name": "Set GPU Base",
+        "hex": "01"
+    },
+    {
+        "name": "Set GPU Overvolt",
         "hex": "00"
     }
 ]

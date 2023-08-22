@@ -56,7 +56,7 @@
         "hex": "005424"
     },
     {
-        "name": "Set 2600MHz - ST8/8+/9",
+        "name": "Set 2600MHz - ST9",
         "hex": "009F24"
     },
     {
@@ -76,8 +76,12 @@
         "hex": "00CB25"
     },
     {
-        "name": "Set 2696MHz - ST9+",
+        "name": "Set 2696MHz",
         "hex": "001626"
+    },
+    {
+        "name": "Set 2700MHz - ST9+",
+        "hex": "A02526"
     },
     {
         "name": "Set 2715MHz",
