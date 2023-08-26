@@ -17,7 +17,7 @@
         "name": "Initial ST8+",
         "package": "/Unrealized/Unrealized.zip",
         "loader": "/Unrealized/loader_st8+.kip",
-        "menu": "4ifir 1.6 - ST8",
+        "menu": "4ifir 1.6 - ST8+",
         "select": "/Unrealized/Select ST8+.ini"
     }
 ]
