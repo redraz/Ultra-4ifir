@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Placebo Tuner - 4ifir 1.7",
+        "start": "Placebo"
+    },
+    {
+        "name": "Unreal Tuner - 4ifir 1.6",
+        "start": "Unreal"
+    },
+    {
+        "name": "Ultra Tuner - Ultra 1.3.6",
+        "start": "Ultra"
+    },
+    {
+        "name": "Suite Tuner - OC-Suite 1.8.1",
+        "start": "Suite"
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Resume Tuning",
+        "command": "cp",
+        "path": "/atmosphere/kips/.current/*/",
+        "to": "/switch/.packages/"
+    },
+    {
+        "name": "Complete Tuning",
+        "command": "reboot"
+    },
+    {
+        "name": "Clear .menus"
+    }
+]

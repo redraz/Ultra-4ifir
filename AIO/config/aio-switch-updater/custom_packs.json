@@ -1,6 +1,7 @@
 {
     "ams": {
-        "Ultra 4IFIR": "https://github.com/redraz/Ultra-4ifir/releases/latest/download/Ultra.4IFIR.zip"
+        "Ultra 4IFIR": "https://github.com/redraz/Ultra-4ifir/releases/latest/download/Ultra.4IFIR.zip",
+		"Ultra 4IFIR BETA": "https://github.com/redraz/Ultra-4ifir/raw/main/Ultra%204IFIR/Ultra%204IFIR.zip"
     },
     "misc": {
 		"Tuner + Update": "https://github.com/redraz/Ultra-4ifir/raw/main/Combo.zip",

@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Create Backup",
+        "dir": "/atmosphere/kips/.bak/",
+        "from": "/atmosphere/kips/loader.kip",
+        "to": "/atmosphere/kips/.bak/loader_backup.kip",
+        "from2": "/atmosphere/kips/.current/*/"
+    },
+    {
+        "name": "Restore Backup",
+        "dir": "/atmosphere/kips/.current/",
+        "from": "/atmosphere/kips/.bak/loader_backup.kip",
+        "to": "/atmosphere/kips/loader.kip",
+        "from2": "/atmosphere/kips/.bak/*/"
+    },
+    {
+        "name": "Delete Backup",
+        "dir": "/atmosphere/kips/.bak/",
+        "from": "",
+        "to": "",
+        "from2": ""
+    }
+]

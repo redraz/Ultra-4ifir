@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Set 1100mV",
+        "hex": "1100"
+    },
+    {
+        "name": "Set 1120mV",
+        "hex": "1120"
+    },
+    {
+        "name": "Set 1140mV",
+        "hex": "1140"
+    },
+    {
+        "name": "Set 1150mV",
+        "hex": "1150"
+    },
+    {
+        "name": "Set 1160mV - ECO",
+        "hex": "1160"
+    },
+    {
+        "name": "Set 1170mV",
+        "hex": "1170"
+    },
+    {
+        "name": "Set 1180mV - Base",
+        "hex": "1180"
+    },
+    {
+        "name": "Set 1190mV",
+        "hex": "1190"
+    },
+    {
+        "name": "Set 1200mV - ST8/8+",
+        "hex": "1200"
+    },
+    {
+        "name": "Set 1210mV",
+        "hex": "1210"
+    },
+    {
+        "name": "Set 1220mV",
+        "hex": "1220"
+    },
+    {
+        "name": "Set 1235mV - ST9+",
+        "hex": "1235"
+    },
+    {
+        "name": "Set 1250mV - Ultra",
+        "hex": "1250"
+    }
+]
+
+
