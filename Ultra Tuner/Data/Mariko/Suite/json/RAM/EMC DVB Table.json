@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Don't Adjust - 0",
+        "hex": "00"
+    },
+    {
+        "name": "Shift one step - 1",
+        "hex": "01"
+    },
+    {
+        "name": "Shift two step - 2",
+        "hex": "02"
+    }
+]
