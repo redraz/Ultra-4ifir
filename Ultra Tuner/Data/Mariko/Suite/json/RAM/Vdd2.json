@@ -1,30 +1,46 @@
 [
     {
+        "name": "Set 1100mV",
+        "hex": "1100000"
+    },
+    {
+        "name": "Set 1125mV",
+        "hex": "1125000"
+    },
+    {
+        "name": "Set 1150mV",
+        "hex": "1150000"
+    },
+    {
+        "name": "Set 1175mV",
+        "hex": "1175000"
+    },
+    {
         "name": "Set 1200mV",
-        "hex": "E0C810"
+        "hex": "1200000"
     },
     {
         "name": "Set 1225mV",
-        "hex": "882A11"
+        "hex": "1225000"
     },
     {
-        "name": "Set 1250mV - ST9/9+",
-        "hex": "308C11"
+        "name": "Set 1250mV",
+        "hex": "1250000"
     },
     {
         "name": "Set 1275mV",
-        "hex": "D8ED11"
+        "hex": "1275000"
     },
     {
-        "name": "Set 1300mV - Base",
-        "hex": "804F12"
+        "name": "Set 1300mV",
+        "hex": "1300000"
     },
     {
         "name": "Set 1325mV",
-        "hex": "28B112"
+        "hex": "1325000"
     },
     {
         "name": "Set 1350mV",
-        "hex": "D01213"
+        "hex": "1350000"
     }
 ]

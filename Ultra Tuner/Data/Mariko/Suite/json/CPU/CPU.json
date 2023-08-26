@@ -16,7 +16,7 @@
         "dec": "1150"
     },
     {
-        "name": "Set 1160mV - ECO",
+        "name": "Set 1160mV",
         "dec": "1160"
     },
     {
@@ -24,7 +24,7 @@
         "dec": "1170"
     },
     {
-        "name": "Set 1180mV - Base",
+        "name": "Set 1180mV",
         "dec": "1180"
     },
     {
@@ -32,7 +32,7 @@
         "dec": "1190"
     },
     {
-        "name": "Set 1200mV - Ultra",
+        "name": "Set 1200mV",
         "dec": "1200"
     },
     {
@@ -44,7 +44,7 @@
         "dec": "1220"
     },
     {
-        "name": "Set 1235mV - ST9+",
+        "name": "Set 1235mV",
         "dec": "1235"
     },
     {
