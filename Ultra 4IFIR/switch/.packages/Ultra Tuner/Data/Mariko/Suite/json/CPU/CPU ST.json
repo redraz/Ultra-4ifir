@@ -1,10 +1,10 @@
 [
     {
-        "name": "Set GPU Priority - +FPS",
-        "dec": "01"
+        "name": "Default Table",
+        "dec": "00"
     },
     {
-        "name": "Set CPU Priority - +MBs",
-        "dec": "00"
+        "name": "Undervolt Level 1 (SLT)",
+        "dec": "01"
     }
 ]
