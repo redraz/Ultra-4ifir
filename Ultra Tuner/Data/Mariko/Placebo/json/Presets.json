@@ -1,7 +1,7 @@
 [
     {
         "name": "Base - Official",
-        "cpu": "9C04",
+        "cpu": "1180",
         "gpu": "01",
         "ramMHz": "009222",
         "ramVDD2": "804F12",
@@ -15,7 +15,7 @@
     },
     {
         "name": "ST9 - Official",
-        "cpu": "9C04",
+        "cpu": "1180",
         "gpu": "02",
         "ramMHz": "009F24",
         "ramVDD2": "308C11",
@@ -29,7 +29,7 @@
     },
     {
         "name": "ST9+ - Official",
-        "cpu": "D304",
+        "cpu": "1235",
         "gpu": "02",
         "ramMHz": "A02526",
         "ramVDD2": "308C11",
@@ -43,7 +43,7 @@
     },
     {
         "name": "Ultra - Custom",
-        "cpu": "B004",
+        "cpu": "1220",
         "gpu": "02",
         "ramMHz": "00CB25",
         "ramVDD2": "804F12",
@@ -56,8 +56,22 @@
         "t7": "03"
     },
     {
+        "name": "Redraz - Custom",
+        "cpu": "1220",
+        "gpu": "02",
+        "ramMHz": "00CB25",
+        "ramVDD2": "882A11",
+        "ramVDDQ": "F09C09",
+        "t1": "05",
+        "t2": "05",
+        "t3": "05",
+        "t4": "06",
+        "t5": "06",
+        "t7": "03"
+    },
+    {
         "name": "Test timings - Test",
-        "cpu": "8804",
+        "cpu": "1160",
         "gpu": "00",
         "ramMHz": "009222",
         "ramVDD2": "D01213",
@@ -71,7 +85,7 @@
     },
     {
         "name": "Test MHz Ram - Test",
-        "cpu": "8804",
+        "cpu": "1160",
         "gpu": "00",
         "ramMHz": "009F24",
         "ramVDD2": "D01213",
