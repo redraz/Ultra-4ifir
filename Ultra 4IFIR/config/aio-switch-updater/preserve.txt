@@ -1,3 +1,4 @@
-/switch/aio-switch-updater/
 /switch/DBI/
 /bootloader/nyx.ini
+/config/tesla/
+/config/sys-ftpd/

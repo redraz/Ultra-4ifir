@@ -1,6 +1,6 @@
 [
     {
-        "name": "Like Base - -timings",
+        "name": "Like Base - w/o timings",
         "cpu": "1180",
         "gpu1": "00",
         "gpu2": "00",
@@ -9,7 +9,7 @@
         "ramVDDQ": "620000"
     },
     {
-        "name": "Like ST8/8+ - -timings",
+        "name": "Like ST8/8+ - w/o timings",
         "cpu": "1200",
         "gpu1": "01",
         "gpu2": "01",
@@ -18,7 +18,7 @@
         "ramVDDQ": "620000"
     },
     {
-        "name": "Like Ultra - -timings",
+        "name": "Like Ultra - w/o timings",
         "cpu": "1235",
         "gpu1": "01",
         "gpu2": "01",

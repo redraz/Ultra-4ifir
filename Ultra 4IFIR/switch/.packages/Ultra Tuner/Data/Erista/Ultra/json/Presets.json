@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Like Base - -timings",
+        "cpu": "1235",
+        "gpu1": "00",
+        "gpu2": "00",
+        "ramMHz": "1996800",
+        "ramVDD2": "1200000"
+    },
+    {
+        "name": "Like Mega - -timings",
+        "cpu": "1270",
+        "gpu1": "01",
+        "gpu2": "01",
+        "ramMHz": "2131200",
+        "ramVDD2": "1200000"
+    },
+    {
+        "name": "Like Ultra - -timings",
+        "cpu": "1320",
+        "gpu1": "01",
+        "gpu2": "01",
+        "ramMHz": "2131200",
+        "ramVDD2": "1200000"
+    }
+]
+
