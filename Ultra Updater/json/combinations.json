@@ -10,6 +10,11 @@
         "file-path": "/switch/.packages/Ultra Updater/combinations/L+Down+R3/*"
     },
     {
+        "name": "L2+R2+Down",
+        "label": "L2+R2+Down",
+        "file-path": "/switch/.packages/Ultra Updater/combinations/L2+R2+Down/*"
+    },
+    {
         "name": "L3+R3",
         "label": "L3+R3",
         "file-path": "/switch/.packages/Ultra Updater/combinations/L3+R3/*"
