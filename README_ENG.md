@@ -33,7 +33,7 @@ To change stages/settings:
 3. Enter `Ultra Tuner` again; it has updated, and we have access to new items. Choose `Create Backup`, then select `Initialization Ultra`, and go back a couple of times by pressing B.
 4. Now you are free to customize the system as you wish, or choose from the list of presets offered, whether from Cooler presets or from me.
 5. Presets:
-- Base - Real `RAM` frequency 2300MHz, GPU Base, timings 135650, voltage: cpu-1180mV, vddq-640mV, vdd2-1300mV
+- Base - Real `RAM` frequency 2300MHz, GPU Base, timings 135652, voltage: cpu-1180mV, vddq-640mV, vdd2-1300mV
 - ST9 - Real `RAM` frequency 2400MHz, GPU Stage, timings 455663, voltage: cpu-1180mV, vddq-630mV, vdd2-1250mV
 - ST9+ - Real `RAM` frequency 2500MHz, GPU Stage, timings 555663, voltage: cpu-1235mV, vddq-630mV, vdd2-1250mV
 - Ultra - Real `RAM` frequency 2476MHz, GPU Stage, timings 455663, voltage: cpu-1220mV, vddq-650mV, vdd2-1300mV
