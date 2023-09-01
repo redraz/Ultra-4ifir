@@ -33,16 +33,20 @@ To change stages/settings:
 3. Enter `Ultra Tuner` again; it has updated, and we have access to new items. Choose `Create Backup`, then select `Initialization Ultra`, and go back a couple of times by pressing B.
 4. Now you are free to customize the system as you wish, or choose from the list of presets offered, whether from Cooler presets or from me.
 5. Presets:
+Official (From Cooler)
 - Base - Real `RAM` frequency 2300MHz(1996 Erista), GPU Base,
 timings 135652, voltage: cpu-1180mV(1270 Erista), vddq-640mV, vdd2-1300mV
 - ST9 - Real `RAM` frequency 2400MHz(2131 Erista), GPU Stage,
 timings 455663, voltage: cpu-1180mV(1300 Erista), vddq-630mV, vdd2-1250mV
 - ST9+ - Real `RAM` frequency 2500MHz(2131 Erista), GPU Stage,
 timings 555663, voltage: cpu-1235mV(1300 Erista), vddq-630mV, vdd2-1250mV
+(Custom from Me)
 - Ultra - Real `RAM` frequency 2476MHz(2286 Erista), GPU Stage,
 timings 455663, voltage: cpu-1220mV(1320 Erista), vddq-650mV, vdd2-1300mV
-- Redraz - Real `RAM` frequency 2476MHz, GPU Stage,
-timings 555663, voltage: cpu-1220mV, vddq-630mV, vdd2-1225mV
+- Core - Real `RAM` frequency 2265MHz(1996 Erista), GPU Base,
+timings 111111, voltage: cpu-1160mV(1270 Erista), vddq-640mV, vdd2-1300mV
+- Redraz - Real `RAM` frequency 2534MHz, GPU Stage,
+timings 555663, voltage: cpu-1220mV, vddq-640mV, vdd2-1250mV
 - Test timings - Real `RAM` frequency 2265MHz(1996 Erista), GPU Overvolt,
 timings 555663, voltage: cpu-1160mV(1235 Erista), vddq-700mV, vdd2-1350mV
 - Test MHz Ram - Real `RAM` frequency 2500MHz(2131 Erista), GPU Overvolt,
