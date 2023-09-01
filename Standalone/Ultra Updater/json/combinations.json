@@ -12,10 +12,6 @@
         "combo": "ZL+ZR+DDOWN"
     },
     {
-        "name": "L3+R3",
-        "combo": "LS+RS"
-    },
-    {
         "name": "Plus+Minus",
         "combo": "PLUS+MINUS"
     }
