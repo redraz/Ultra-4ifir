@@ -3,7 +3,7 @@
         "name": "Resume Tuning",
         "command": "cp",
         "path": "/switch/.packages/Ultra Tuner/Data/Placebo/Select.ini",
-        "to": "/switch/.packages/.Placebo Tuner - 4ifir 1.7/config.ini"
+        "to": "/switch/.packages/.Placebo Tuner/config.ini"
     },
     {
         "name": "Complete Tuning",
