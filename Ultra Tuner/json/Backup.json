@@ -12,9 +12,6 @@
     },
     {
         "name": "Delete Backup",
-        "dir": "/atmosphere/kips/.bak/",
-        "from": "",
-        "to": "",
-        "from2": ""
+        "dir": "/atmosphere/kips/.bak/"
     }
 ]
