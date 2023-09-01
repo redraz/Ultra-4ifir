@@ -1,8 +1,13 @@
 [
     {
-        "name": "Ultra Tuner - latest",
+        "name": "Placebo Tuner - latest",
         "label": "Ultra Tuner",
-        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Ultra%20Tuner/Ultra%20Tuner.zip"
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Standalone/Placebo%20Tuner/Placebo%20Tuner.zip"
+    },
+    {
+        "name": "Suite Tuner - latest",
+        "label": "Ultra Tuner",
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Standalone/Suite%20Tuner/Suite%20Tuner.zip"
     },
     {
         "name": "Ultra Updater - latest",
