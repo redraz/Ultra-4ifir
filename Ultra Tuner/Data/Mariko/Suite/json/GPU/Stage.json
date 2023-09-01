@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Default Table",
+        "hex": "00"
+    },
+    {
+        "name": "Undervolt Level 1 (SLT: Aggressive)",
+        "hex": "01"
+    },
+    {
+        "name": "Undervolt Level 2 (HiOPT: Drastic)",
+        "hex": "02"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Initial Base",
+        "package": "/Unrealized/Unrealized.zip",
+        "loader": "/Unrealized/loader_base.kip",
+        "menu": "4ifir 1.6 - Base",
+        "select": "/Unrealized/Select Base.ini"
+    },
+    {
+        "name": "Initial ST8",
+        "package": "/Unrealized/Unrealized.zip",
+        "loader": "/Unrealized/loader_st8.kip",
+        "menu": "4ifir 1.6 - ST8",
+        "select": "/Unrealized/Select ST8.ini"
+    },
+    {
+        "name": "Initial ST8+",
+        "package": "/Unrealized/Unrealized.zip",
+        "loader": "/Unrealized/loader_st8+.kip",
+        "menu": "4ifir 1.6 - ST8+",
+        "select": "/Unrealized/Select ST8+.ini"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Initial Suite",
+        "package": "/Suite/Suite.zip",
+        "loader": "/Suite/loader_suite.kip",
+        "menu": "OC-Suite 1.8.1",
+        "select": "/Suite/Select.ini"
+    }
+]
