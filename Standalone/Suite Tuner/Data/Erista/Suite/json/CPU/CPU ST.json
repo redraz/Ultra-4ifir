@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Default Table",
+        "hex": "00"
+    },
+    {
+        "name": "Undervolt Level 1 (SLT)",
+        "hex": "01"
+    }
+]

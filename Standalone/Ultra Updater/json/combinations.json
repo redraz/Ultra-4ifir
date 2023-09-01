@@ -1,0 +1,22 @@
+[
+    {
+        "name": "L+R+Up",
+        "combo": "L+R+DUP"
+    },
+    {
+        "name": "L+Down+R3",
+        "combo": "L+DDOWN+RS"
+    },
+    {
+        "name": "L2+R2+Down",
+        "combo": "ZL+ZR+DDOWN"
+    },
+    {
+        "name": "L3+R3",
+        "combo": "LS+RS"
+    },
+    {
+        "name": "Plus+Minus",
+        "combo": "PLUS+MINUS"
+    }
+]

@@ -44,7 +44,7 @@ timings 555663, voltage: cpu-1235mV(1300 Erista), vddq-630mV, vdd2-1250mV
 - Ultra - Real `RAM` frequency 2476MHz(2286 Erista), GPU Stage,
 timings 455663, voltage: cpu-1220mV(1320 Erista), vddq-650mV, vdd2-1300mV
 - Core - Real `RAM` frequency 2265MHz(1996 Erista), GPU Base,
-timings 111111, voltage: cpu-1160mV(1270 Erista), vddq-640mV, vdd2-1300mV
+timings 225652, voltage: cpu-1160mV(1270 Erista), vddq-640mV, vdd2-1300mV
 - Redraz - Real `RAM` frequency 2534MHz, GPU Stage,
 timings 555663, voltage: cpu-1220mV, vddq-640mV, vdd2-1250mV
 - Test timings - Real `RAM` frequency 2265MHz(1996 Erista), GPU Overvolt,
