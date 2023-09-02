@@ -93,7 +93,7 @@
     {
         "name": "Test timings - Test",
         "cpu": "1235",
-        "ramMHz": "1996800",
+        "ramMHz": "1862400",
         "ramVDD2": "1250000",
         "DVB": "02",
         "t1": "06",
@@ -106,7 +106,7 @@
     {
         "name": "Test MHz Ram - Test",
         "cpu": "1235",
-        "ramMHz": "2131200",
+        "ramMHz": "2188800",
         "ramVDD2": "1250000",
         "DVB": "02",
         "t1": "01",

@@ -66,10 +66,10 @@
    - вольтажи: cpu-1220mV (1270), vddq-630mV, vdd2-1225mV (1300)
 
 ***Тестовые - для теста рам***
-- Test timings - `РАМ` 2265мгц (1996), GPU Overvolt,
-тайминги 555653, DVB 02
+- Test timings - `РАМ` 2131мгц (1862), GPU Overvolt,
+тайминги 555653 (626663), DVB 02
    - вольтажи: cpu-1160mV (1235), vddq-700mV, vdd2-1350mV
-- Test MHz Ram - `РАМ` 2500мгц (2131), GPU Overvolt,
+- Test MHz Ram - `РАМ` 2500мгц (2188), GPU Overvolt,
 тайминги 111110, DVB 02
    - вольтажи: cpu-1160mV (1235), vddq-700mV, vdd2-1350mV
 

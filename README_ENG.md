@@ -65,10 +65,10 @@ timings 555653 (525653), DVB 00
    - voltages: cpu-1220mV (1270), vddq-630mV, vdd2-1225mV (1300)
 
 ***Test - for ram test***
-- Test timings - `RAM` 2265MHz (1996), GPU Overvolt,
-timings 555653, DVB 02
+- Test timings - `RAM` 2131мгц (1862), GPU Overvolt,
+timings 555653 (626663), DVB 02
    - voltages: cpu-1160mV (1235), vddq-700mV, vdd2-1350mV
-- Test MHz Ram - `RAM` 2500MHz (2131), GPU Overvolt,
+- Test MHz Ram - `RAM` 2500мгц (2188), GPU Overvolt,
 timings 111110, DVB 02
    - voltages: cpu-1160mV (1235), vddq-700mV, vdd2-1350mV
 
