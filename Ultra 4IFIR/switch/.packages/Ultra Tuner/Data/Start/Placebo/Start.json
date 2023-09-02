@@ -1,9 +1,0 @@
-[
-    {
-        "name": "Initial Placebo",
-        "package": "/Placebo/Placebo.zip",
-        "loader": "/Placebo/loader_placebo.kip",
-        "menu": "4ifir 1.7 - Placebo",
-        "select": "/Placebo/Select.ini"
-    }
-]

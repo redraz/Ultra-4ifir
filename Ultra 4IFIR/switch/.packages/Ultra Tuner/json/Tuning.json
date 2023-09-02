@@ -2,8 +2,8 @@
     {
         "name": "Resume Tuning",
         "command": "cp",
-        "path": "/atmosphere/kips/.current/*/",
-        "to": "/switch/.packages/"
+        "path": "/switch/.packages/Ultra Tuner/Data/Placebo/Select.ini",
+        "to": "/switch/.packages/.Placebo Tuner/config.ini"
     },
     {
         "name": "Complete Tuning",
