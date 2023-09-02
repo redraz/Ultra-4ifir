@@ -30,29 +30,47 @@ If you encounter problems with the installation through `AIO`, you can perform a
 To change stages/settings:
 1. Open the Tesla menu (L+R+Up) - now replaced with `Ultrahand`, press Right to access plugins. Enter `Ultra Tuner`, choose your console, `Mariko` or `Erista`, and press B.
 2. All further configurations will happen this way: enter the desired menu, select the necessary setting, and press B to go back. The menu items will update, and new menus will appear on the main page.
-3. Enter `Ultra Tuner` again; it has updated, and we have access to new items. Choose `Create Backup`, then select `Initialization Ultra`, and go back a couple of times by pressing B.
+3. Enter `Ultra Tuner` again; it has updated, and we have access to new items. Choose `Create Backup`, ~~then select `Initialization Ultra`, and go back a couple of times by pressing B.~~ At this point, we go straight to the following points.
 4. Now you are free to customize the system as you wish, or choose from the list of presets offered, whether from Cooler presets or from me.
-5. Presets:
-Official (From Cooler)
-- Base - Real `RAM` frequency 2300MHz(1996 Erista), GPU Base,
-timings 135652, voltage: cpu-1180mV(1270 Erista), vddq-640mV, vdd2-1300mV
-- ST9 - Real `RAM` frequency 2400MHz(2131 Erista), GPU Stage,
-timings 455663, voltage: cpu-1180mV(1300 Erista), vddq-630mV, vdd2-1250mV
-- ST9+ - Real `RAM` frequency 2500MHz(2131 Erista), GPU Stage,
-timings 555663, voltage: cpu-1235mV(1300 Erista), vddq-630mV, vdd2-1250mV
-(Custom from Me)
-- Ultra - Real `RAM` frequency 2476MHz(2286 Erista), GPU Stage,
-timings 455663, voltage: cpu-1220mV(1320 Erista), vddq-650mV, vdd2-1300mV
-- Core - Real `RAM` frequency 2265MHz(1996 Erista), GPU Base,
-timings 225652, voltage: cpu-1160mV(1270 Erista), vddq-640mV, vdd2-1300mV
-- Redraz - Real `RAM` frequency 2534MHz, GPU Stage,
-timings 555663, voltage: cpu-1220mV, vddq-640mV, vdd2-1250mV
-- Test timings - Real `RAM` frequency 2265MHz(1996 Erista), GPU Overvolt,
-timings 555663, voltage: cpu-1160mV(1235 Erista), vddq-700mV, vdd2-1350mV
-- Test MHz Ram - Real `RAM` frequency 2500MHz(2131 Erista), GPU Overvolt,
-timings 111110, voltage: cpu-1160mV(1235 Erista), vddq-700mV, vdd2-1350mV
-6. After completing the configuration, go back to `Ultra Tuner` and choose `Complete Tuning`; this will clear unnecessary menu items and restart the console.
-7. If you went too far with overclocking/stages, and your console fails to boot - simply enter `Hekate` and select booting in `Safe Mode`; unlike `Semi Stock`, the "safe mode" doesn't load the overclocking loader.kip, so you can boot into it without any issues and restore a backup/set the base stage.
+5. After completing the configuration, go back to `Ultra Tuner` and choose `Complete Tuning`; this will clear unnecessary menu items and restart the console.
+6. If you went too far with overclocking/stages, and your console fails to boot - simply enter `Hekate` and select booting in `Safe Mode`; unlike `Semi Stock`, the "safe mode" doesn't load the overclocking loader.kip, so you can boot into it without any issues and restore a backup/set the base stage.
+
+### Preset description
+In brackets, values for Erista
+Indicated real RAM frequency, in the 4ifir will be displayed higher by 200MHz
+
+***Official from Cooler - Base<ST9<ST9+***
+- Base - `RAM` 2300MHz (1996), GPU Base,
+timings 135652, DVB 02
+   - voltages: cpu-1180mV (1270), vddq-640mV, vdd2-1300mV
+- ST9 - `RAM` 2400MHz (1996), GPU Stage,
+timings 355653, DVB 00
+   - voltages: cpu-1180mV (1270), vddq-600mV, vdd2-1275mV
+- ST9+ - `RAM` 2500MHz (2131), GPU Stage,
+timings 555663, DVB 01
+   - voltages: cpu-1235mV (1300), vddq-630mV, vdd2-1250mV
+
+***Custom from Me - Core<Mega<Ultra***
+- Core - `RAM` 2300MHz (1996), GPU Base,
+timings 225652, DVB 01
+   - voltages: cpu-1160mV (1235), vddq-650mV, vdd2-1300mV
+- Mega - `RAM` 2400MHz (2131), GPU Stage,
+timings 455653 (525653), DVB 01
+   - voltages: cpu-1200mV (1270), vddq-650mV, vdd2-1300mV
+- Ultra - `RAM` 2500MHz (2188), GPU Stage,
+timings 555653 (626663), DVB 01
+   - voltages: cpu-1220mV (1320), vddq-650mV, vdd2-1300mV
+- Red - `RAM` 2515MHz (2286), GPU Stage,
+timings 555653 (525653), DVB 00
+   - voltages: cpu-1220mV (1270), vddq-630mV, vdd2-1225mV (1300)
+
+***Test - for ram test***
+- Test timings - `RAM` 2265MHz (1996), GPU Overvolt,
+timings 555653, DVB 02
+   - voltages: cpu-1160mV (1235), vddq-700mV, vdd2-1350mV
+- Test MHz Ram - `RAM` 2500MHz (2131), GPU Overvolt,
+timings 111110, DVB 02
+   - voltages: cpu-1160mV (1235), vddq-700mV, vdd2-1350mV
 
 ### Addition
 
