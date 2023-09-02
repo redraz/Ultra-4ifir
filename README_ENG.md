@@ -58,10 +58,10 @@ timings 225652, DVB 01
 timings 455653 (525653), DVB 01
    - voltages: cpu-1200mV (1270), vddq-650mV, vdd2-1300mV
 - Ultra - `RAM` 2500MHz (2188), GPU Stage,
-timings 555653 (626663), DVB 01
+timings 555653 (525653), DVB 01
    - voltages: cpu-1220mV (1320), vddq-650mV, vdd2-1300mV
 - Red - `RAM` 2515MHz (2286), GPU Stage,
-timings 555653 (525653), DVB 00
+timings 555653 (626663), DVB 00
    - voltages: cpu-1220mV (1270), vddq-630mV, vdd2-1225mV (1300)
 
 ***Test - for ram test***
