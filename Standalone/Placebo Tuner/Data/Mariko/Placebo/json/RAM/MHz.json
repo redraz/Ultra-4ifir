@@ -28,12 +28,16 @@
         "hex": "004722"
     },
     {
-        "name": "Set 2465MHz - Base",
+        "name": "Set 2465MHz",
         "hex": "009222"
     },
     {
         "name": "Set 2484MHz",
         "hex": "00DD22"
+    },
+    {
+        "name": "Set 2500MHz - Base",
+        "hex": "601823"
     },
     {
         "name": "Set 2504MHz",
