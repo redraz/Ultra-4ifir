@@ -1,14 +1,14 @@
 [
     {
-        "name": "Don't Adjust - 0",
+        "name": "Don't Adjust - ST9 0",
         "hex": "00"
     },
     {
-        "name": "Shift one step - 1",
+        "name": "Shift one step - ST9+ 1",
         "hex": "01"
     },
     {
-        "name": "Shift two step - 2",
+        "name": "Shift two step - Base 2",
         "hex": "02"
     }
 ]

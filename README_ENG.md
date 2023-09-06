@@ -44,7 +44,7 @@ Indicated real RAM frequency, in the 4ifir will be displayed higher by 200MHz
 timings 135652, DVB 02
    - voltages: cpu-1180mV (1270), vddq-640mV, vdd2-1300mV
 - ST9 - `RAM` 2400MHz (1996), GPU Stage,
-timings 355653, DVB 00
+timings 345653, DVB 00
    - voltages: cpu-1180mV (1270), vddq-600mV, vdd2-1275mV
 - ST9+ - `RAM` 2500MHz (2131), GPU Stage,
 timings 555663, DVB 01
