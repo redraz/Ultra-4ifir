@@ -1,0 +1,10 @@
+[
+    {
+        "name": "GPU Priority - +FPS",
+        "hex": "01"
+    },
+    {
+        "name": "CPU Priority - +MBs",
+        "hex": "00"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Magic №0 - Do Not Adjust",
+        "hex": "00"
+    },
+    {
+        "name": "Magic №1",
+        "hex": "01"
+    },
+    {
+        "name": "Magic №2",
+        "hex": "02"
+    },
+    {
+        "name": "Magic №3",
+        "hex": "03"
+    },
+    {
+        "name": "Magic №4",
+        "hex": "04"
+    },
+    {
+        "name": "Magic №5 - Base/ST9",
+        "hex": "05"
+    },
+    {
+        "name": "Magic №6 - ST9+",
+        "hex": "06"
+    }
+]

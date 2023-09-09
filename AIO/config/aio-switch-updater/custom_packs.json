@@ -1,10 +1,8 @@
 {
     "ams": {
-		"[PACK] Ultra 4IFIR 1.4": "https://github.com/redraz/Ultra-4ifir/raw/main/Ultra%204IFIR/Ultra%204IFIR.zip",
-		"[PACK] Erista Fix": "https://github.com/redraz/Ultra-4ifir/raw/main/Erista%20Fix.zip"
+		"[PACK] Ultra 4IFIR 1.4.1": "https://github.com/redraz/Ultra-4ifir/raw/main/Ultra%204IFIR/Ultra%204IFIR.zip"
     },
     "misc": {
-		"Ultra Updater": "https://github.com/redraz/Ultra-4ifir/raw/main/Updater.zip",
     "Brick Code": "https://github.com/redraz/Ultra-4ifir/raw/main/Brick.zip",
     "Refresh AIO": "https://github.com/redraz/Ultra-4ifir/raw/main/AIO/AIO.zip"
     }
