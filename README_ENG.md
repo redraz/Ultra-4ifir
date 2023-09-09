@@ -38,18 +38,7 @@ If you encounter problems with the installation through `AIO`, you can perform a
 In brackets, values for Erista
 Indicated real RAM frequency, in the 4ifir will be displayed higher by 200MHz
 
-***Official from Cooler - Base<ST9<ST9+***
-- Base - `RAM` 2300MHz (1996), GPU Base,
-timings 135652, DVB 02
-   - voltages: cpu-1180mV (1270), vddq-640mV, vdd2-1300mV
-- ST9 - `RAM` 2400MHz (1996), GPU Stage,
-timings 345653, DVB 00
-   - voltages: cpu-1180mV (1270), vddq-600mV, vdd2-1275mV
-- ST9+ - `RAM` 2500MHz (1996), GPU Stage,
-timings 555653, DVB 02
-   - voltages: cpu-1235mV (1300), vddq-640mV, vdd2-1275mV
-
-***Custom from Me - Core<Mega<Ultra<Red***
+***Presets from Me - Core<Mega<Ultra<Red***
 - Core - `RAM` 2300MHz (1996), GPU Base,
 timings 225652, DVB 01
    - voltages: cpu-1160mV (1235), vddq-650mV, vdd2-1300mV
@@ -62,6 +51,17 @@ timings 525653, DVB 01
 - Red - `RAM` 2515MHz (2286), GPU Stage,
 timings 555653 (626663), DVB 00
    - voltages: cpu-1220mV (1270), vddq-630mV, vdd2-1225mV (1300)
+
+***Presets from Cooler - Base<ST9<ST9+***
+- Base - `RAM` 2300MHz (1996), GPU Base,
+timings 135652, DVB 02
+   - voltages: cpu-1180mV (1270), vddq-640mV, vdd2-1300mV
+- ST9 - `RAM` 2400MHz (1996), GPU Stage,
+timings 345653, DVB 00
+   - voltages: cpu-1180mV (1270), vddq-600mV, vdd2-1275mV
+- ST9+ - `RAM` 2500MHz (1996), GPU Stage,
+timings 555653, DVB 02
+   - voltages: cpu-1235mV (1300), vddq-640mV, vdd2-1275mV
 
 ***Test - for ram test***
 - Test timings - `RAM` 2131мгц (1862), GPU Overvolt,
