@@ -4,23 +4,23 @@
         "hex": "00"
     },
     {
-        "name": "Magic №1 - Base",
+        "name": "Magic №1",
         "hex": "01"
     },
     {
-        "name": "Magic №2",
+        "name": "Magic №2 - Core",
         "hex": "02"
     },
     {
-        "name": "Magic №3 - ST9",
+        "name": "Magic №3",
         "hex": "03"
     },
     {
-        "name": "Magic №4",
+        "name": "Magic №4 - Mega",
         "hex": "04"
     },
     {
-        "name": "Magic №5 - ST9+",
+        "name": "Magic №5 - Ultra",
         "hex": "05"
     },
     {

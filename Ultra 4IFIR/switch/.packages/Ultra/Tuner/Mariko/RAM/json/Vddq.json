@@ -20,7 +20,7 @@
         "hex": "B00009"
     },
     {
-        "name": "600mV - ST9",
+        "name": "600mV",
         "hex": "C02709"
     },
     {
@@ -32,15 +32,15 @@
         "hex": "E07509"
     },
     {
-        "name": "630mV - ST9+",
+        "name": "630mV",
         "hex": "F09C09"
     },
     {
-        "name": "640mV - Base",
+        "name": "640mV",
         "hex": "00C409"
     },
     {
-        "name": "650mV",
+        "name": "650mV - Core",
         "hex": "10EB09"
     },
     {

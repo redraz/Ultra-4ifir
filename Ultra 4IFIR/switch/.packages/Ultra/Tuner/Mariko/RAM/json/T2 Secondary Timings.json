@@ -8,11 +8,11 @@
         "hex": "01"
     },
     {
-        "name": "Magic №2",
+        "name": "Magic №2 - Core",
         "hex": "02"
     },
     {
-        "name": "Magic №3 - Base",
+        "name": "Magic №3",
         "hex": "03"
     },
     {
@@ -20,7 +20,7 @@
         "hex": "04"
     },
     {
-        "name": "Magic №5 - ST9/ST9+",
+        "name": "Magic №5",
         "hex": "05"
     }
 ]
