@@ -1,6 +1,6 @@
 [
     {
-        "name": "1862MHz",
+        "name": "1862MHz - Bad Luck",
         "hex": "006B1C"
     },
     {
@@ -28,7 +28,7 @@
         "hex": "002D1E"
     },
     {
-        "name": "1996MHz - Base",
+        "name": "1996MHz - Core",
         "hex": "00781E"
     },
     {
@@ -56,7 +56,7 @@
         "hex": "003A20"
     },
     {
-        "name": "2131MHz - ST9+",
+        "name": "2131MHz - Mega",
         "hex": "008520"
     },
     {
@@ -84,7 +84,7 @@
         "hex": "004722"
     },
     {
-        "name": "2265MHz - Mariko",
+        "name": "2265MHz - Ultra",
         "hex": "009222"
     },
     {

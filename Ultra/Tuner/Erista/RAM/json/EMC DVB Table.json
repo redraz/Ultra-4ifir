@@ -1,14 +1,14 @@
 [
     {
-        "name": "0 Don't Step - ST9",
+        "name": "0 Don't Step",
         "hex": "00"
     },
     {
-        "name": "1 Step Up - ST9+",
+        "name": "1 Step Up - Core",
         "hex": "01"
     },
     {
-        "name": "2 Step Up - Base",
+        "name": "2 Step Up",
         "hex": "02"
     }
 ]

@@ -4,7 +4,7 @@
         "hex": "B00400"
     },
     {
-        "name": "1235mV",
+        "name": "1235mV - Core",
         "hex": "D30400"
     },
     {
@@ -12,15 +12,15 @@
         "hex": "E20400"
     },
     {
-        "name": "1270mV - Base/ST9",
+        "name": "1270mV - Mega",
         "hex": "F60400"
     },
     {
-        "name": "1300mV - ST9+",
+        "name": "1300mV",
         "hex": "140500"
     },
     {
-        "name": "1320mV",
+        "name": "1320mV - Ultra",
         "hex": "280500"
     },
     {

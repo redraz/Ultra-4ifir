@@ -1,6 +1,6 @@
 [
 	{
-        "name": "1100mV",
+        "name": "1100mV - Why?",
         "hex": "4C04"
     },
     {
@@ -16,7 +16,7 @@
         "hex": "7E04"
     },
     {
-        "name": "1160mV - ECO",
+        "name": "1160mV - Core",
         "hex": "8804"
     },
     {
@@ -24,7 +24,7 @@
         "hex": "9204"
     },
     {
-        "name": "1180mV - Base/ST9",
+        "name": "1180mV - Mega",
         "hex": "9C04"
     },
     {
@@ -40,11 +40,11 @@
         "hex": "BA04"
     },
     {
-        "name": "1220mV",
+        "name": "1220mV - Ultra",
         "hex": "C404"
     },
     {
-        "name": "1235mV - ST9+",
+        "name": "1235mV",
         "hex": "D304"
     },
     {
