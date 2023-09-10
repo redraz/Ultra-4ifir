@@ -137,7 +137,7 @@
     },
     {
         "name": "2900MHz - Serious?",
-        "hex": "20402C"
+        "hex": "E03229"
     },
     {
         "name": "2907MHz",
@@ -145,74 +145,74 @@
     },
     {
         "name": "2926MHz",
-        "hex": "40A72C"
+        "hex": "009A29"
     },
     {
         "name": "2945MHz",
-        "hex": "40F22C"
+        "hex": "00E529"
     },
     {
         "name": "2964MHz",
-        "hex": "403D2D"
+        "hex": "00302A"
     },
     {
         "name": "2984MHz",
-        "hex": "40882D"
+        "hex": "007B2A"
     },
     {
         "name": "3000MHz - You're insane!",
-        "hex": "C0C62D"
+        "hex": "80B92A"
     },
     {
         "name": "3003MHz",
-        "hex": "40D32D"
+        "hex": "00C62A"
     },
     {
         "name": "3022MHz",
-        "hex": "401E2E"
+        "hex": "00112B"
     },
     {
         "name": "3041MHz",
-        "hex": "40692E"
+        "hex": "005C2B"
     },
     {
         "name": "3060MHz",
-        "hex": "40B42E"
+        "hex": "00A72B"
     },
     {
         "name": "3080MHz",
-        "hex": "40FF2E"
+        "hex": "00F22B"
     },
     {
         "name": "3099MHz",
-        "hex": "404A2F"
+        "hex": "003D2C"
     },
     {
         "name": "3100MHz - Oh shit...",
-        "hex": "604D2F"
+        "hex": "20402C"
     },
     {
         "name": "3118MHz",
-        "hex": "40952F"
+        "hex": "00882C"
     },
     {
         "name": "3137MHz",
-        "hex": "40E02F"
+        "hex": "00D32C"
     },
     {
         "name": "3156MHz",
-        "hex": "402B30"
+        "hex": "001E2D"
     },
     {
         "name": "3176MHz",
-        "hex": "407630"
+        "hex": "00692D"
     },
     {
         "name": "3195MHz",
-        "hex": "40C130"
+        "hex": "00B42D"
     },
     {
         "name": "3200MHz - emuNAND's death",
-        "hex": "00D430"
+        "hex": "C0C62D"
     }
 ]
