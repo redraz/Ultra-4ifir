@@ -9,7 +9,7 @@
 The ultimate solution for maximum overclocking and configuration for your console!
 Based on [4IFIR](https://github.com/rashevskyv/4IFIR), all licenses from the original project.
 
-Includes Ultra Tuner based on [Ultrahand](https://github.com/ppkantorski/Ultrahand-Overlay)
+The basis of the pack is the Ultra Tuner, which was made due to [Ultrahand](https://github.com/ppkantorski/Ultrahand-Overlay), but moved to [Uberhand](https://i3sey.github.io/Uberhand-Overlay/about/)
 - Allows you to configure GPU undervolting either in packages by switching the `GPU` from Base to ST or vice versa, or precisely select the voltage for any of the frequencies.
 - Ability to change the `CPU` voltage limit for Erista and Mariko, which will increase the CPU overclocking ceiling (or, when lowered, can fix game crashes).
 - Select frequencies and change `RAM` voltages.
