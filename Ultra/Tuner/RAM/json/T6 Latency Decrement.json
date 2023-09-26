@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Magic №0 - Do Not Adjust",
+        "hex": "00",
+        "color": "Gray"
+    },
+    {
+        "name": "Magic №1",
+        "hex": "01",
+        "color": "Gray"
+    },
+    {
+        "name": "Magic №2 - Core",
+        "hex": "02",
+        "color": "White"
+    },
+    {
+        "name": "Magic №3 - Mega/Ultra",
+        "hex": "03",
+        "color": "White"
+    },
+    {
+        "name": "Magic №4 - Malfunctioning",
+        "hex": "04",
+        "color": "Red"
+    },
+    {
+        "name": "Magic №5 - Malfunctioning",
+        "hex": "05",
+        "color": "Red"
+    },
+    {
+        "name": "Magic №6 - Malfunctioning",
+        "hex": "06",
+        "color": "Red"
+    }
+]

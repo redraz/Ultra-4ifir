@@ -1,0 +1,76 @@
+[
+    {
+        "name": "550mV - Danger",
+        "hex": "706408",
+        "color": "Red"
+    },
+    {
+        "name": "560mV - Danger",
+        "hex": "808B08",
+        "color": "Red"
+    },
+    {
+        "name": "570mV - Unsafe",
+        "hex": "90B208",
+        "color": "Orange"
+    },
+    {
+        "name": "580mV - Unsafe",
+        "hex": "A0D908",
+        "color": "Orange"
+    },
+    {
+        "name": "590mV",
+        "hex": "B00009",
+        "color": "Gray"
+    },
+    {
+        "name": "600mV",
+        "hex": "C02709",
+        "color": "Gray"
+    },
+    {
+        "name": "610mV",
+        "hex": "D04E09"
+    },
+    {
+        "name": "620mV",
+        "hex": "E07509"
+    },
+    {
+        "name": "630mV",
+        "hex": "F09C09"
+    },
+    {
+        "name": "640mV",
+        "hex": "00C409"
+    },
+    {
+        "name": "650mV - Core",
+        "hex": "10EB09",
+        "color": "White"
+    },
+    {
+        "name": "660mV",
+        "hex": "20120A"
+    },
+    {
+        "name": "670mV",
+        "hex": "30390A"
+    },
+    {
+        "name": "680mV",
+        "hex": "40600A",
+        "color": "Gray"
+    },
+    {
+        "name": "690mV - Unsafe",
+        "hex": "50870A",
+        "color": "Orange"
+    },
+    {
+        "name": "700mV - Unsafe",
+        "hex": "60AE0A",
+        "color": "Orange"
+    }
+]

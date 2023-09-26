@@ -1,0 +1,54 @@
+[
+	{
+        "name": "1100mV - Why?",
+        "hex": "4C04",
+        "color": "Gray"
+    },
+    {
+        "name": "1120mV",
+        "hex": "6004"
+    },
+    {
+        "name": "1140mV",
+        "hex": "7404"
+    },
+    {
+        "name": "1160mV - Core",
+        "hex": "8804",
+        "color": "White"
+    },
+    {
+        "name": "1180mV - Mega",
+        "hex": "9C04",
+        "color": "White"
+    },
+    {
+        "name": "1200mV",
+        "hex": "B004"
+    },
+    {
+        "name": "1220mV - Ultra",
+        "hex": "C404",
+        "color": "White"
+    },
+    {
+        "name": "1235mV",
+        "hex": "D304"
+    },
+    {
+        "name": "1250mV",
+        "hex": "E204"
+    },
+    {
+        "name": "1275mV - Unsafe",
+        "hex": "FB04",
+        "color": "Orange"
+    },
+    {
+        "name": "1300mV - Danger",
+        "hex": "1405",
+        "color": "Red"
+    }
+]
+
+

@@ -1,0 +1,35 @@
+[
+    {
+        "name": "1200mV",
+        "hex": "B00400",
+        "color": "Green"
+    },
+    {
+        "name": "1235mV - Core",
+        "hex": "D30400",
+        "color": "White"
+    },
+    {
+        "name": "1250mV",
+        "hex": "E20400"
+    },
+    {
+        "name": "1270mV - Mega",
+        "hex": "F60400",
+        "color": "White"
+    },
+    {
+        "name": "1300mV",
+        "hex": "140500"
+    },
+    {
+        "name": "1320mV - Ultra",
+        "hex": "280500",
+        "color": "White"
+    },
+    {
+        "name": "1350mV - Unsafe",
+        "hex": "460500",
+        "color": "Orange"
+    }
+]

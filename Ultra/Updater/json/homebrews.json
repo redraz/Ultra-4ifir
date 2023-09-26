@@ -20,7 +20,7 @@
         "path": "/switch/"
     },
     {
-        "name": "MicroMemTest - 5.0.0",
+        "name": "MicroMemTest - 5.0.1",
         "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/MicroMemTest.zip",
         "path": "/switch/"
     },
@@ -33,6 +33,11 @@
         "name": "SysDVR - 5.5",
         "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/SysDVR%20Full.zip",
         "path": "/"
+    },
+    {
+        "name": "SysDVR conf - 5.5",
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/SysDVR-conf.zip",
+        "path": "/switch/"
     },
     {
         "name": "Fizeau - 2.4.1",
@@ -57,6 +62,11 @@
     {
         "name": "mhz - 1.0.0",
         "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/mhz-1.0.0.zip",
+        "path": "/switch/"
+    },
+    {
+        "name": "RaytracingNX - 1.1.0",
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/RaytracingNX.zip",
         "path": "/switch/"
     },
     {

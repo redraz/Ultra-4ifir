@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Disable - -UV [MBs]",
+        "hex": "00",
+        "color": "Orange"
+    },
+    {
+        "name": "Medium - +UV [FPS]",
+        "hex": "01",
+        "color": "White"
+    },
+    {
+        "name": "High - ++UV [FPS]",
+        "hex": "02",
+        "color": "Green"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Overvolt - --UV",
+        "hex": "00",
+        "color": "Orange"
+    },
+    {
+        "name": "Medium - +UV",
+        "hex": "01",
+        "color": "White"
+    },
+    {
+        "name": "High - ++UV",
+        "hex": "02",
+        "color": "Green"
+    }
+]
