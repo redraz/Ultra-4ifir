@@ -1,18 +1,22 @@
 [
     {
         "name": "L+R+Up",
-        "combo": "L+R+DUP"
+        "ini": "L+R+DUP",
+        "color": "#CCCCCC"
     },
     {
         "name": "L+Down+R3",
-        "combo": "L+DDOWN+RS"
+        "ini": "L+DDOWN+RS",
+        "color": "#CCCCCC"
     },
     {
         "name": "L2+R2+Down",
-        "combo": "ZL+ZR+DDOWN"
+        "ini": "ZL+ZR+DDOWN",
+        "color": "#CCCCCC"
     },
     {
         "name": "Plus+Minus",
-        "combo": "PLUS+MINUS"
+        "ini": "PLUS+MINUS",
+        "color": "#CCCCCC"
     }
 ]

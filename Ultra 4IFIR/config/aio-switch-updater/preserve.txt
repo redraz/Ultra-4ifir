@@ -1,3 +1,4 @@
 /switch/DBI/
 /bootloader/nyx.ini
 /config/tesla/
+/atmosphere/config/system_settings.ini

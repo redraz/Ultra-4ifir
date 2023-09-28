@@ -1,82 +1,104 @@
 [
     {
-        "name": "DBI RU - 616",
+        "name": "DBI RU - 620",
         "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/DBI%20RU.zip",
-        "path": "/switch/"
+        "path": "/switch/",
+        "color": "#99CCFF"
     },
     {
         "name": "DBI EN - 616",
         "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/DBI%20EN.zip",
-        "path": "/switch/"
+        "path": "/switch/",
+        "color": "#99CCFF"
     },
     {
         "name": "DBI PTBR - 616",
         "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/DBI%20EN.zip",
-        "path": "/switch/"
+        "path": "/switch/",
+        "color": "#99CCFF"
     },
+
+
     {
-        "name": "MicroMemBench - 0.5.1",
-        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/MicroMemBench.zip",
-        "path": "/switch/"
-    },
-    {
-        "name": "MicroMemTest - 5.0.1",
-        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/MicroMemTest.zip",
-        "path": "/switch/"
+        "name": "Daybreak - 1.0.0",
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/daybreak.zip",
+        "path": "/switch/",
+        "color": "#FFFFFF"
     },
     {
         "name": "ReverseNX Tool - 3.1.2",
         "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/ReverseNX-Tool.zip",
-        "path": "/switch/"
-    },
-    {
-        "name": "SysDVR - 5.5",
-        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/SysDVR%20Full.zip",
-        "path": "/"
-    },
-    {
-        "name": "SysDVR conf - 5.5",
-        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/SysDVR-conf.zip",
-        "path": "/switch/"
-    },
-    {
-        "name": "Fizeau - 2.4.1",
-        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/Fizeau%20Full.zip",
-        "path": "/"
-    },
-    {
-        "name": "sys-ftpd - 1.0.4",
-        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/sys-ftpd.zip",
-        "path": "/"
+        "path": "/switch/",
+        "color": "#FFFFFF"
     },
     {
         "name": "Battery Desync Fix - 1.2.1",
         "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/battery_desync_fix.zip",
-        "path": "/switch/"
-    },
-    {
-        "name": "Daybreak - 1.0.0",
-        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/daybreak.zip",
-        "path": "/switch/"
-    },
-    {
-        "name": "mhz - 1.0.0",
-        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/mhz-1.0.0.zip",
-        "path": "/switch/"
-    },
-    {
-        "name": "RaytracingNX - 1.1.0",
-        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/RaytracingNX.zip",
-        "path": "/switch/"
-    },
-    {
-        "name": "clkrst_query - 1.0.0",
-        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/clkrst_query.zip",
-        "path": "/switch/"
+        "path": "/switch/",
+        "color": "#FFFFFF"
     },
     {
         "name": "HB App Store - 2.3.2",
         "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/appstore.zip",
-        "path": "/switch/"
+        "path": "/switch/",
+        "color": "#FFFFFF"
+    },
+
+
+    {
+        "name": "SysDVR-conf - 5.5",
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/SysDVR-conf.zip",
+        "path": "/switch/",
+        "color": "#999999"
+    },
+    {
+        "name": "SysDVR - 5.5",
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/SysDVR%20Full.zip",
+        "path": "/",
+        "color": "#999999"
+    },
+    {
+        "name": "Sys-ftpd - 1.0.4",
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/sys-ftpd.zip",
+        "path": "/",
+        "color": "#999999"
+    },
+    {
+        "name": "Fizeau - 2.4.1",
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/Fizeau%20Full.zip",
+        "path": "/",
+        "color": "#999999"
+    },
+
+
+    {
+        "name": "MicroMemBench - 0.5.1",
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/MicroMemBench.zip",
+        "path": "/switch/",
+        "color": "#FFCCCC"
+    },
+    {
+        "name": "MicroMemTest - 5.0.1",
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/MicroMemTest.zip",
+        "path": "/switch/",
+        "color": "#FFCCCC"
+    },
+    {
+        "name": "RaytracingNX - 1.1.0",
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/RaytracingNX.zip",
+        "path": "/switch/",
+        "color": "#FFCCCC"
+    },
+    {
+        "name": "clkrst_query - 1.0.0",
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/clkrst_query.zip",
+        "path": "/switch/",
+        "color": "#FFCCCC"
+    },
+    {
+        "name": "mhz - 1.0.0",
+        "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/mhz-1.0.0.zip",
+        "path": "/switch/",
+        "color": "#FFCCCC"
     }
 ]

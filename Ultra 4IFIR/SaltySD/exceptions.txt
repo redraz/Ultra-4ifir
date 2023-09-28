@@ -42,3 +42,7 @@ X0100964012528000
 ;1.0.0 - Games in collection are crashing on boot, only launcher doesn't
 010079C017F5E001
 010079C017F5E002
+
+;EA Sports FC 24
+;1.0.0 crash on boot
+X0100BDB01A0E6000

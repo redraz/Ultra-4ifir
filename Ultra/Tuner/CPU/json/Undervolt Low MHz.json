@@ -1,0 +1,27 @@
+[
+    {
+        "name": "0 Undervolt - MBs",
+        "hex": "00",
+        "color": "#999999"
+    },
+    {
+        "name": "1 Undervolt - Core",
+        "hex": "01",
+        "color": "#FFFFFF"
+    },
+    {
+        "name": "2 Undervolt - Unsafe",
+        "hex": "02",
+        "color": "#FF6699"
+    },
+    {
+        "name": "3 Undervolt - Unsafe",
+        "hex": "03",
+        "color": "#FF6699"
+    },
+    {
+        "name": "4 Undervolt - Unsafe",
+        "hex": "04",
+        "color": "#FF6699"
+    }
+]

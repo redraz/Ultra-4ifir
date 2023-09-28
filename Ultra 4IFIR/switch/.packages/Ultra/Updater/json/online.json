@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Disable - Ultra",
+        "file-path": "/switch/.packages/Ultra/Updater/sys-info/offline_system_settings.ini",
+        "color": "#FF6699"
+    },
+    {
+        "name": "Enable - Stock",
+        "file-path": "/switch/.packages/Ultra/Updater/sys-info/online_system_settings.ini",
+        "color": "#66FFFF"
+    }
+]
