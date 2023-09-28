@@ -9,10 +9,10 @@
 The ultimate solution for maximum overclocking and configuration for your console!
 Based on [4IFIR](https://github.com/rashevskyv/4IFIR), all licenses from the original project.
 
-The basis of the pack is the Ultra Tuner, which was made due to [Ultrahand](https://github.com/ppkantorski/Ultrahand-Overlay), but moved to [Uberhand](https://i3sey.github.io/Uberhand-Overlay/about/)
-- Allows you to configure GPU undervolting either in packages by switching the `GPU` from Base to ST or vice versa, or precisely select the voltage for any of the frequencies.
-- Ability to change the `CPU` voltage limit for Erista and Mariko, which will increase the CPU overclocking ceiling (or, when lowered, can fix game crashes).
-- Select frequencies and change `RAM` voltages.
+The basis of the pack is the Ultra Tuner, which was made due to [Ultrahand](https://github.com/ppkantorski/Ultrahand-Overlay).
+- Allows you to configure GPU undervolting either in packages by switching the `GPU` from Base to Stage or vice versa, or precisely select the voltage for any of the frequencies.
+- Ability to change the `CPU` voltage limit for Erista and Mariko, which will increase the CPU overclocking ceiling (or, when lowered, can fix game crashes). It also allows you to adjust the CPU undervolt.
+- Select frequencies, timings and change `RAM` voltages.
 
 ## Installation
 
@@ -28,50 +28,18 @@ If you encounter problems with the installation through `AIO`, you can perform a
 
 ## Usage
 **To change stages/settings:**
-1. Open the Tesla menu (L+R+Up) - now replaced with `Uberhand`, press Right to access plugins. Enter `Ultra`, choose your console, `Mariko` or `Erista`, and press B.
-2. Enter `Ultra` again; it has updated, and we have access to new items.
-3. Now you are free to customize the system as you wish, or choose from the list of presets offered, whether from Cooler presets or from me.
+1. Open the Tesla menu (L+R+Up) - now replaced with `4esla`, press Right to access plugins.
+2. Enter `Ultra`, and make a backup just in case - `Backup - Create`.
+3. Now you are free to customize the system as you wish, or choose from the list of presets offered.
 4. After completing the configuration, go to `Ultra` - `Tuner` - `Complete`, this will restart the console.
 5. If you went too far with overclocking/stages, and your console fails to boot - simply enter `Hekate` and select booting in `Safe Mode`; unlike `Semi Stock`, the "safe mode" doesn't load the overclocking loader.kip, so you can boot into it without any issues and restore a backup/set the base stage.
 
-### Preset description
-In brackets, values for Erista
-Indicated real RAM frequency, in the 4ifir will be displayed higher by 200MHz
-
-***Presets from Me - Core<Mega<Ultra<Red***
-- Core - `RAM` 2300MHz (1996), GPU Base,
-timings 225652, DVB 01
-   - voltages: cpu-1160mV (1235), vddq-650mV, vdd2-1300mV
-- Mega - `RAM` 2400MHz (2131), GPU Stage,
-timings 425653, DVB 01
-   - voltages: cpu-1200mV (1270), vddq-650mV, vdd2-1300mV
-- Ultra - `RAM` 2500MHz (2188), GPU Stage,
-timings 525653, DVB 01
-   - voltages: cpu-1220mV (1320), vddq-650mV, vdd2-1300mV
-- Red - `RAM` 2515MHz (2286), GPU Stage,
-timings 555653 (626663), DVB 00
-   - voltages: cpu-1220mV (1270), vddq-630mV, vdd2-1225mV (1300)
-
-***Presets from Cooler - Base<ST9<ST9+***
-- Base - `RAM` 2300MHz (1996), GPU Base,
-timings 135652, DVB 02
-   - voltages: cpu-1180mV (1270), vddq-640mV, vdd2-1300mV
-- ST9 - `RAM` 2400MHz (1996), GPU Stage,
-timings 345653, DVB 00
-   - voltages: cpu-1180mV (1270), vddq-600mV, vdd2-1275mV
-- ST9+ - `RAM` 2500MHz (1996), GPU Stage,
-timings 555653, DVB 02
-   - voltages: cpu-1235mV (1300), vddq-640mV, vdd2-1275mV
-
-***Test - for ram test***
-- Test timings - `RAM` 2131мгц (1862), GPU Overvolt,
-timings 555653 (626663), DVB 02
-   - voltages: cpu-1160mV (1235), vddq-650mV, vdd2-1300mV
-- Test MHz Ram - `RAM` 2500мгц (2188), GPU Overvolt,
-timings 111110, DVB 02
-   - voltages: cpu-1160mV (1235), vddq-650mV, vdd2-1300mV
 
 ### Addition
-
-
-In `Ultra` - `Updater`, you can also install various homebrew applications, both from the original 4ifir composition and others, as well as access mods created by Cooler himself.
+The `Ultra` `Updater` offers many additional features.
+What there is in updater:
+1. Installing different Hombrew apps, all from the original 4ifir as well as everything that Cooler posted. There’s also a useful hombrew.
+2. Able to download any mod from 4MODS from Cooler, plus a couple of bonus mods.
+3. Enable/Disable Background Online Services. By default, they are disabled, which reduces the console’s sleep consumption. But if you play the license often, it makes sense to enable them.
+4. Adjust the frequency of background video recording, and its bitrate. It is required to apply after each switch on/off of background services due to the feature of work.
+5. Change the combination of opening 4esla, which affects overlays and status monitor.
