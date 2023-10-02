@@ -1,0 +1,2 @@
+Tool to remove unnecessary homebrews/overlays/plugins.
+Cleans up nasty things =)

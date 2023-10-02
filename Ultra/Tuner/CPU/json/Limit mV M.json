@@ -40,9 +40,9 @@
         "color": "#CCCCCC"
     },
     {
-        "name": "1250mV",
+        "name": "1250mV - Unsafe",
         "hex": "E204",
-        "color": "#CCCCCC"
+        "color": "#FF6699"
     },
     {
         "name": "1275mV - Unsafe",

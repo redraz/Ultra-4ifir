@@ -1,0 +1,7 @@
+Allows you to select a voltage table with auto-voltage adjustment.
+
+0 = Table where the voltages of all frequencies up to 1Hz are equal to the 1Hz. If you are going to overclock the memory above 2.4-2.5GHz, this mode is created for you.
+
+1 = GPU Voltage table from base (stable for all)
+
+2 = GPU Voltage table from stage (stable for most)

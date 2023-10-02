@@ -2,7 +2,7 @@
     {
         "name": "Core - Base  Like",
         "cpuMV": "1160",
-        "cpuUVlow": "00",
+        "cpuUVlow": "01",
         "cpuUVhigh": "03",
         "gpu": "01",
         "ramMHz": "2300000",
@@ -18,9 +18,9 @@
         "color": "#FFFFFF"
     },
     {
-        "name": "Mega - ST9   Like",
+        "name": "Mega - STX   Like",
         "cpuMV": "1200",
-        "cpuUVlow": "00",
+        "cpuUVlow": "02",
         "cpuUVhigh": "04",
         "gpu": "02",
         "ramMHz": "2400000",
@@ -36,9 +36,9 @@
         "color": "#FFFFFF"
     },
     {
-        "name": "Ultra - ST9+ Like",
+        "name": "Ultra - STX+ Like",
         "cpuMV": "1220",
-        "cpuUVlow": "04",
+        "cpuUVlow": "03",
         "cpuUVhigh": "04",
         "gpu": "02",
         "ramMHz": "2500000",
@@ -56,7 +56,7 @@
     {
         "name": "Red - Custom+++",
         "cpuMV": "1220",
-        "cpuUVlow": "04",
+        "cpuUVlow": "02",
         "cpuUVhigh": "04",
         "gpu": "02",
         "ramMHz": "2500000",
@@ -74,7 +74,7 @@
     {
         "name": "Green - Custom++",
         "cpuMV": "1200",
-        "cpuUVlow": "04",
+        "cpuUVlow": "02",
         "cpuUVhigh": "04",
         "gpu": "02",
         "ramMHz": "2500000",
@@ -92,8 +92,8 @@
     {
         "name": "Blue - Custom+",
         "cpuMV": "1180",
-        "cpuUVlow": "04",
-        "cpuUVhigh": "04",
+        "cpuUVlow": "01",
+        "cpuUVhigh": "03",
         "gpu": "02",
         "ramMHz": "2400000",
         "ramVDD2": "1275000",

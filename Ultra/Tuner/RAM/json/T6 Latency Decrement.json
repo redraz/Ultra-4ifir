@@ -23,5 +23,10 @@
         "name": "Magic №4",
         "hex": "04",
         "color": "#CCCCCC"
+    },
+    {
+        "name": "Magic №5",
+        "hex": "05",
+        "color": "#666666"
     }
 ]

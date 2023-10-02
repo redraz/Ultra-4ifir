@@ -1,0 +1,5 @@
+In 4ifir, the timings was replaced by their "Magic" Cooler numbers, so there is no clear and uniform description of what is hidden under a particular item.
+Choose your timings independently, and try to achieve maximum performance without losing stability.
+
+You may have seen a notation like this: 36653
+These numbers correspond to RAM timings.

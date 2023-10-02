@@ -1,13 +1,13 @@
 [
     {
-        "name": "0 Undervolt - Core",
+        "name": "0 Undervolt",
         "hex": "00",
-        "color": "#FFFFFF"
+        "color": "#CCCCCC"
     },
     {
-        "name": "1 Undervolt - Unsafe",
+        "name": "1 Undervolt - Core",
         "hex": "01",
-        "color": "#FF6699"
+        "color": "#FFFFFF"
     },
     {
         "name": "2 Undervolt - Unsafe",

@@ -1,0 +1,1 @@
+Increasing the CPU voltage limit increases the maximum CPU overclocking, reducing the limit can fix game crashes.

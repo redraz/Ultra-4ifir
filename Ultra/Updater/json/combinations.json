@@ -1,22 +1,22 @@
 [
     {
         "name": "L+R+Up",
-        "ini": "L+R+DUP",
-        "color": "#CCCCCC"
+        "hex": "L+R+DUP",
+        "color": "#FFFFFF"
     },
     {
         "name": "L+Down+R3",
-        "ini": "L+DDOWN+RS",
+        "hex": "L+DDOWN+RS",
         "color": "#CCCCCC"
     },
     {
         "name": "L2+R2+Down",
-        "ini": "ZL+ZR+DDOWN",
+        "hex": "ZL+ZR+DDOWN",
         "color": "#CCCCCC"
     },
     {
         "name": "Plus+Minus",
-        "ini": "PLUS+MINUS",
+        "hex": "PLUS+MINUS",
         "color": "#CCCCCC"
     }
 ]

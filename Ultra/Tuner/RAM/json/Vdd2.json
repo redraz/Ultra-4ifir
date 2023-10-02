@@ -1,8 +1,18 @@
 [
     {
-        "name": "1150mV - Danger",
-        "hex": "308C11",
+        "name": "1100mV - Danger",
+        "hex": "E0C810",
         "color": "#FF3366"
+    },
+    {
+        "name": "1125mV - Danger",
+        "hex": "882A11",
+        "color": "#FF3366"
+    },
+    {
+        "name": "1150mV - Unsafe",
+        "hex": "308C11",
+        "color": "#FF6699"
     },
     {
         "name": "1175mV - Unsafe",

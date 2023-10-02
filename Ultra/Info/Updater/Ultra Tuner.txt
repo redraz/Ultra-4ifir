@@ -1,0 +1,1 @@
+Keep in mind that only Tuner (+ Updater) is downloaded, and it usually does not contain oc loader.kip, so use either your kip or download tuner on pack where there is already a oc kip (OCS, 4ifir, Ultra).

@@ -46,13 +46,13 @@
 
 
     {
-        "name": "SysDVR-conf - 5.5",
+        "name": "SysDVR only nro - 5.5",
         "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/SysDVR-conf.zip",
         "path": "/switch/",
         "color": "#999999"
     },
     {
-        "name": "SysDVR - 5.5",
+        "name": "SysDVR full - 5.5",
         "url": "https://github.com/redraz/Ultra-4ifir/raw/main/Homebrews/SysDVR%20Full.zip",
         "path": "/",
         "color": "#999999"

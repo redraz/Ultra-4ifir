@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Eng - English",
+        "file-path": "EN",
+        "color": "#FFFFFF"
+    },
+    {
+        "name": "Rus - Русский",
+        "file-path": "RU",
+        "color": "#FFFFFF"
+    }
+]
