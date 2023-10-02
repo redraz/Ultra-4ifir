@@ -1,0 +1,17 @@
+[
+    {
+        "name": "0 - AUTO_ADJ_ALL (Default)",
+        "hex": "00",
+        "color": "#666666"
+    },
+    {
+        "name": "1 - CUSTOM_ADJ_ALL",
+        "hex": "01",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2 - NO_ADJ_ALL",
+        "hex": "02",
+        "color": "#CCCCCC"
+    }
+]

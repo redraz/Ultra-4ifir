@@ -1,0 +1,8 @@
+WARNING: Unstable timings can corrupt your nand
+
+Latency decrement for both AUTO_ADJ and CUSTOM_ADJ
+
+This preset decreases Write/Read related delays.
+Values are Write - Read
+
+Do Not Adjust = Do not adjust for CUST_ADJ

@@ -1,0 +1,82 @@
+[
+    {
+        "name": "550mV - Danger",
+        "hex": "706408",
+        "color": "#FF3366"
+    },
+    {
+        "name": "560mV - Danger",
+        "hex": "808B08",
+        "color": "#FF3366"
+    },
+    {
+        "name": "570mV - Unsafe",
+        "hex": "90B208",
+        "color": "#FF6699"
+    },
+    {
+        "name": "580mV - Unsafe",
+        "hex": "A0D908",
+        "color": "#FF6699"
+    },
+    {
+        "name": "590mV",
+        "hex": "B00009",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "600mV",
+        "hex": "C02709",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "610mV",
+        "hex": "D04E09",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "620mV",
+        "hex": "E07509",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "630mV",
+        "hex": "F09C09",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "640mV",
+        "hex": "00C409",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "650mV",
+        "hex": "10EB09",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "660mV",
+        "hex": "20120A",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "670mV",
+        "hex": "30390A",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "680mV",
+        "hex": "40600A",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "690mV - Unsafe",
+        "hex": "50870A",
+        "color": "#FF6699"
+    },
+    {
+        "name": "700mV - Unsafe",
+        "hex": "60AE0A",
+        "color": "#FF6699"
+    }
+]

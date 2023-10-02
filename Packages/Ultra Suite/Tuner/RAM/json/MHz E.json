@@ -1,0 +1,227 @@
+[
+    {
+        "name": "1862MHz",
+        "hex": "006B1C",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "1881MHz",
+        "hex": "00B61C",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "1900MHz",
+        "hex": "00011D",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "1920MHz",
+        "hex": "004C1D",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "1939MHz",
+        "hex": "00971D",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "1958MHz",
+        "hex": "00E21D",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "1977MHz",
+        "hex": "002D1E",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "1996MHz",
+        "hex": "00781E",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2016MHz",
+        "hex": "00C31E",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2035MHz",
+        "hex": "000E1F",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2054MHz",
+        "hex": "0059AF",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2073MHz",
+        "hex": "00A41F",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2092MHz",
+        "hex": "00EF1F",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2112MHz",
+        "hex": "003A20",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2131MHz",
+        "hex": "008520",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2150MHz",
+        "hex": "00D020",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2169MHz",
+        "hex": "001B21",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2188MHz",
+        "hex": "006621",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2208MHz",
+        "hex": "00B121",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2227MHz",
+        "hex": "00FC21",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2246MHz",
+        "hex": "004722",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2265MHz",
+        "hex": "009222",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2284MHz",
+        "hex": "00DD22",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2304MHz",
+        "hex": "002823",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2323MHz",
+        "hex": "007323",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2342MHz",
+        "hex": "00BE23",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2361MHz",
+        "hex": "000924",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2380MHz",
+        "hex": "005424",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2400MHz",
+        "hex": "009F24",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2419MHz",
+        "hex": "00EA24",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2438MHz",
+        "hex": "003525",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2457MHz",
+        "hex": "008025",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2476MHz",
+        "hex": "00CB25",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2496MHz",
+        "hex": "001626",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2515MHz",
+        "hex": "006126",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2534MHz",
+        "hex": "00AC26",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2553MHz",
+        "hex": "00F726",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2572MHz",
+        "hex": "004227",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2592MHz",
+        "hex": "008D27",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2611MHz",
+        "hex": "00D827",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2630MHz",
+        "hex": "002328",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2649MHz",
+        "hex": "006E28",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2668MHz",
+        "hex": "00B928",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2688MHz",
+        "hex": "000429",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2707MHz",
+        "hex": "004F29",
+        "color": "#CCCCCC"
+    }
+]

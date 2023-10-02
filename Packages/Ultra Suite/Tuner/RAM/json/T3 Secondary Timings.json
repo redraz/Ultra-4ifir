@@ -1,0 +1,37 @@
+[
+    {
+        "name": "0: Do Not Adjust",
+        "hex": "00",
+        "color": "#666666"
+    },
+    {
+        "name": "1: 18-7.5 - Default",
+        "hex": "01",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2: 15-7.5",
+        "hex": "02",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "3: 15-6",
+        "hex": "03",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "4: 12-6",
+        "hex": "04",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "5: 12-4",
+        "hex": "05",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "6: 8-4",
+        "hex": "06",
+        "color": "#CCCCCC"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "name": "0 Default Table",
+        "hex": "00",
+        "color": "#999999"
+    },
+    {
+        "name": "1 Lvl Undervolt",
+        "hex": "01",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2 Lvl Undervolt",
+        "hex": "02",
+        "color": "#FFFFFF"
+    }
+]

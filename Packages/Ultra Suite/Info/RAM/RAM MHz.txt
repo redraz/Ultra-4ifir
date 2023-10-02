@@ -1,0 +1,6 @@
+Recommended Clocks:
+1862400, 2131200, 2400000 (JEDEC)
+
+Clocks above 2400Mhz might not boot, or work correctly
+
+WARNING: RAM overclock could be UNSTABLE if timing parameters are not suitable for your DRAM.

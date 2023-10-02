@@ -1,0 +1,27 @@
+[
+    {
+        "name": "1200mV",
+        "hex": "B00400",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "1235mV",
+        "hex": "D30400",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "1250mV",
+        "hex": "E20400",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "1270mV",
+        "hex": "F60400",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "1300mV",
+        "hex": "140500",
+        "color": "#CCCCCC"
+    }
+]

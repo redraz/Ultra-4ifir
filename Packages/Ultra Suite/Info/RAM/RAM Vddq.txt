@@ -1,0 +1,3 @@
+Micron Official lpddr4(x) range: 570mV-650mV
+
+This will not work without sys-clk-OC.

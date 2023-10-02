@@ -1,0 +1,17 @@
+[
+    {
+        "name": "0: Don't Adjust",
+        "hex": "00",
+        "color": "#FFFFFF"
+    },
+    {
+        "name": "1: Shift one step",
+        "hex": "01",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2: Shift two step",
+        "hex": "02",
+        "color": "#999999"
+    }
+]

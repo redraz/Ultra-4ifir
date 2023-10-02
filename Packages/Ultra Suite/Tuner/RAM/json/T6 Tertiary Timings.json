@@ -1,0 +1,32 @@
+[
+    {
+        "name": "0: Do Not Adjust",
+        "hex": "00",
+        "color": "#666666"
+    },
+    {
+        "name": "1: 488 - Default",
+        "hex": "01",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2: 976",
+        "hex": "02",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "3: 1952",
+        "hex": "03",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "4: 3256",
+        "hex": "04",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "5: MAX",
+        "hex": "05",
+        "color": "#CCCCCC"
+    }
+]

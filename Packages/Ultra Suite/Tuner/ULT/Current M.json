@@ -1,0 +1,162 @@
+[
+	{
+		"name": "|-------------------| CPU |--------------------|",
+		"state": "filler"
+	},
+
+	{
+		"name": "Maximum MHz",
+		"offset": "12",
+		"length": "4",
+		"extent": "MHz"
+	},
+	{
+		"name": "Max mV Limit",
+		"offset": "28",
+		"length": "4",
+		"extent": "mV"
+	},
+	{
+		"name": "Undervolt Mode",
+		"offset": "40",
+		"length": "1"
+	},
+
+	{
+		"name": "|-------------------| RAM |--------------------|",
+		"state": "filler"
+	},
+
+	{
+		"name": "Maximum MHz",
+		"offset": "32",
+		"length": "4",
+		"extent": "MHz"
+	},
+	{
+		"name": "RAM Vddq mV",
+		"offset": "36",
+		"length": "3",
+		"extent": "mV"
+	},
+	{
+		"name": "RAM Vdd2 mV",
+		"offset": "16",
+		"length": "4",
+		"extent": "mV"
+	},
+	{
+		"name": "EMC DVB Table",
+		"offset": "48",
+		"length": "1"
+	},
+	{
+		"name": "Timings",
+		"offset": "52,56,60,64,68,72,76",
+		"length": "1"
+	},
+
+	{
+		"name": "|-------------------| GPU |--------------------|",
+		"state": "filler"
+	},
+
+	{
+		"name": "Undervolt Mode",
+		"offset": "44",
+		"length": "1"
+	},
+
+	{
+		"name": "76-460MHz",
+		"offset": "7128",
+		"length": "3",
+		"extent": "mV",
+		"default": "1"
+	},
+	{
+		"name": "537-691MHz",
+		"offset": "7464",
+		"length": "3",
+		"extent": "mV",
+		"default": "1"
+	},
+
+
+	{
+		"name": "768MHz",
+		"offset": "7632",
+		"length": "3",
+		"extent": "mV",
+		"state": "no_skip",
+		"default": "1"
+	},
+	{
+		"name": "1075MHz",
+		"offset": "7856",
+		"length": "3",
+		"extent": "mV",
+		"default": "1"
+	},
+
+
+	{
+		"name": "844MHz",
+		"offset": "7688",
+		"length": "3",
+		"extent": "mV",
+		"state": "no_skip",
+		"default": "1"
+	},
+	{
+		"name": "1152MHz",
+		"offset": "7912",
+		"length": "3",
+		"extent": "mV",
+		"default": "1"
+	},
+
+
+
+	{
+		"name": "921MHz",
+		"offset": "7744",
+		"length": "3",
+		"extent": "mV",
+		"state": "no_skip",
+		"default": "1"
+	},
+	{
+		"name": "1228MHz",
+		"offset": "7968",
+		"length": "3",
+		"extent": "mV",
+		"default": "1"
+	},
+
+
+	{
+		"name": "998MHz",
+		"offset": "7800",
+		"length": "3",
+		"extent": "mV",
+		"state": "no_skip",
+		"default": "1"
+	},
+	{
+		"name": "1267MHz",
+		"offset": "8024",
+		"length": "3",
+		"extent": "mV",
+		"default": "1"
+	},
+
+
+	{
+		"name": "                             1305MHz",
+		"offset": "8080",
+		"length": "3",
+		"extent": "mV",
+		"default": "1"
+	}
+]

@@ -1,0 +1,7 @@
+Erista Default (HOS): 1125000 (bootloader: 1100000)
+
+Mariko Default: 1100000 (It will not work without sys-clk-OC)
+
+Official lpddr4(x) range: 1060mV-1175mV
+
+Public version needs high voltage because of wrong values, but it is recommended to stay within safe limits

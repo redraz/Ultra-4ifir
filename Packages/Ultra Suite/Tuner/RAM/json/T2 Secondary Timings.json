@@ -1,0 +1,32 @@
+[
+    {
+        "name": "0: Do Not Adjust",
+        "hex": "00",
+        "color": "#666666"
+    },
+    {
+        "name": "1: 10-40 (3733 specs) - Default",
+        "hex": "01",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2: 7.5-30 (4266 specs)",
+        "hex": "02",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "3: 6-24",
+        "hex": "03",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "4: 4-16",
+        "hex": "04",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "5: 3-12",
+        "hex": "05",
+        "color": "#CCCCCC"
+    }
+]

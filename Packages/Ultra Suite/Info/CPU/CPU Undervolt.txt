@@ -1,0 +1,9 @@
+Reduce CPU power draw
+
+Your CPU might not withstand undervolt and performance might drop
+
+0 : Default Table
+1 : Undervolt Level 1
+(SLT - CPU speedo < 1650)
+2 : Undervolt Level 1
+(SLT - CPU speedo >= 1650)

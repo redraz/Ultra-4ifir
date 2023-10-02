@@ -1,0 +1,1 @@
+Allows you to change the tesla menu open combination, which also affects all overlays
