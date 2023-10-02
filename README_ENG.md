@@ -11,7 +11,7 @@ Based on [4IFIR](https://github.com/rashevskyv/4IFIR), all licenses from the ori
 
 The basis of the pack is the Ultra Tuner, which was made due to [Ultrahand](https://github.com/ppkantorski/Ultrahand-Overlay).
 - Allows you to configure GPU undervolting either in packages by switching the `GPU` from Base to Stage or vice versa, or precisely select the voltage for any of the frequencies.
-- Ability to change the `CPU` voltage limit for Erista and Mariko, which will increase the CPU overclocking ceiling (or, when lowered, can fix game crashes). It also allows you to adjust the CPU undervolt.
+- Ability to change the `CPU` voltage limit for Erista and Mariko, which will increase the CPU overclocking (or, when lowered, can fix game crashes). It also allows you to adjust the CPU undervolt.
 - Select frequencies, timings and change `RAM` voltages.
 
 ## Installation
@@ -33,6 +33,9 @@ If you encounter problems with the installation through `AIO`, you can perform a
 3. Now you are free to customize the system as you wish, or choose from the list of presets offered.
 4. After completing the configuration, go to `Ultra` - `Tuner` - `Complete`, this will restart the console.
 5. If you went too far with overclocking/stages, and your console fails to boot - simply enter `Hekate` and select booting in `Safe Mode`; unlike `Semi Stock`, the "safe mode" doesn't load the overclocking loader.kip, so you can boot into it without any issues and restore a backup/set the base stage.
+
+### Standalone
+ Standalone Tuner for OS Suite can be downloaded through a special [Updater](https://github.com/redraz/Ultra-4ifir/raw/main/Packages/Standalone%20Pack.zip). To install - unpack the archive to the console and restart for the plugin work.
 
 
 ### Addition
