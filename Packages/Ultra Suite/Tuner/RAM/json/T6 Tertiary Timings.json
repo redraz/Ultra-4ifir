@@ -7,7 +7,7 @@
     {
         "name": "1: 488 - Default",
         "hex": "01",
-        "color": "#CCCCCC"
+        "color": "#999999"
     },
     {
         "name": "2: 976",
@@ -22,11 +22,11 @@
     {
         "name": "4: 3256",
         "hex": "04",
-        "color": "#CCCCCC"
+        "color": "#FFFFFF"
     },
     {
         "name": "5: MAX",
         "hex": "05",
-        "color": "#CCCCCC"
+        "color": "#FFFFFF"
     }
 ]

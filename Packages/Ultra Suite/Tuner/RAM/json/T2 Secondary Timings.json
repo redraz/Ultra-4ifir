@@ -7,7 +7,7 @@
     {
         "name": "1: 10-40 (3733 specs) - Default",
         "hex": "01",
-        "color": "#CCCCCC"
+        "color": "#999999"
     },
     {
         "name": "2: 7.5-30 (4266 specs)",
@@ -22,11 +22,11 @@
     {
         "name": "4: 4-16",
         "hex": "04",
-        "color": "#CCCCCC"
+        "color": "#FFFFFF"
     },
     {
         "name": "5: 3-12",
         "hex": "05",
-        "color": "#CCCCCC"
+        "color": "#FFFFFF"
     }
 ]

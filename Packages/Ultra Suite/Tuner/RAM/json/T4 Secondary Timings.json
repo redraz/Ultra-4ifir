@@ -7,12 +7,12 @@
     {
         "name": "1: 140 - Default",
         "hex": "01",
-        "color": "#CCCCCC"
+        "color": "#999999"
     },
     {
         "name": "2: 120",
         "hex": "02",
-        "color": "#CCCCCC"
+        "color": "#999999"
     },
     {
         "name": "3: 100",
@@ -27,11 +27,11 @@
     {
         "name": "5: 70",
         "hex": "05",
-        "color": "#CCCCCC"
+        "color": "#FFFFFF"
     },
     {
         "name": "6: 60",
         "hex": "06",
-        "color": "#CCCCCC"
+        "color": "#FFFFFF"
     }
 ]

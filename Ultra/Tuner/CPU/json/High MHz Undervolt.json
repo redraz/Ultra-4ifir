@@ -20,8 +20,8 @@
         "color": "#FFFFFF"
     },
     {
-        "name": "4 Undervolt - Unsafe",
+        "name": "4 Undervolt - Stage",
         "hex": "04",
-        "color": "#FF6699"
+        "color": "#FFFFFF"
     }
 ]

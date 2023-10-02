@@ -7,17 +7,17 @@
     {
         "name": "Magic №1",
         "hex": "01",
-        "color": "#CCCCCC"
+        "color": "#999999"
     },
     {
         "name": "Magic №2 - Core",
         "hex": "02",
-        "color": "#FFFFFF"
+        "color": "#999999"
     },
     {
         "name": "Magic №3 - Mega",
         "hex": "03",
-        "color": "#FFFFFF"
+        "color": "#CCCCCC"
     },
     {
         "name": "Magic №4",
@@ -32,6 +32,6 @@
     {
         "name": "Magic №6",
         "hex": "06",
-        "color": "#CCCCCC"
+        "color": "#FFFFFF"
     }
 ]

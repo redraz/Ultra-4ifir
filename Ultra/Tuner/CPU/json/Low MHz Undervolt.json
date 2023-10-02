@@ -2,26 +2,26 @@
     {
         "name": "0 Undervolt",
         "hex": "00",
-        "color": "#CCCCCC"
+        "color": "#999999"
     },
     {
         "name": "1 Undervolt - Core",
         "hex": "01",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2 Undervolt - Mega",
+        "hex": "02",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "3 Undervolt - Ultra",
+        "hex": "03",
         "color": "#FFFFFF"
     },
     {
-        "name": "2 Undervolt - Unsafe",
-        "hex": "02",
-        "color": "#FF6699"
-    },
-    {
-        "name": "3 Undervolt - Unsafe",
-        "hex": "03",
-        "color": "#FF6699"
-    },
-    {
-        "name": "4 Undervolt - Unsafe",
+        "name": "4 Undervolt",
         "hex": "04",
-        "color": "#FF6699"
+        "color": "#FFFFFF"
     }
 ]

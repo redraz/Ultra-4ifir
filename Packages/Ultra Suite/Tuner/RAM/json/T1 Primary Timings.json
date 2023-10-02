@@ -7,12 +7,12 @@
     {
         "name": "1: 18-18-42 - Default",
         "hex": "01",
-        "color": "#CCCCCC"
+        "color": "#999999"
     },
     {
         "name": "2: 17-17-39",
         "hex": "02",
-        "color": "#CCCCCC"
+        "color": "#999999"
     },
     {
         "name": "3: 16-16-36",
@@ -27,11 +27,11 @@
     {
         "name": "5: 14-14-32",
         "hex": "05",
-        "color": "#CCCCCC"
+        "color": "#FFFFFF"
     },
     {
         "name": "6: 13-13-30",
         "hex": "06",
-        "color": "#CCCCCC"
+        "color": "#FFFFFF"
     }
 ]

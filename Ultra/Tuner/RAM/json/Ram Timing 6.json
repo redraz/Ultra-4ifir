@@ -7,26 +7,26 @@
     {
         "name": "Magic №1",
         "hex": "01",
-        "color": "#CCCCCC"
+        "color": "#999999"
     },
     {
         "name": "Magic №2 - Core",
         "hex": "02",
-        "color": "#FFFFFF"
+        "color": "#CCCCCC"
     },
     {
-        "name": "Magic №3 - Mega/Ultra",
+        "name": "Magic №3 - Stage",
         "hex": "03",
-        "color": "#FFFFFF"
+        "color": "#CCCCCC"
     },
     {
         "name": "Magic №4",
         "hex": "04",
-        "color": "#CCCCCC"
+        "color": "#FFFFFF"
     },
     {
         "name": "Magic №5",
         "hex": "05",
-        "color": "#666666"
+        "color": "#FFFFFF"
     }
 ]
