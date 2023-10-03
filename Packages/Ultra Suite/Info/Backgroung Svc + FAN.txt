@@ -1,0 +1,3 @@
+Disable background services for power saving in standby mode.
+
+Combined with the curve of the switch cooling system.

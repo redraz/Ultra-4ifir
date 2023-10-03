@@ -1,0 +1,7 @@
+Different profiles of cooling curves.
+
+Ultra Silent - the quietest, but the most "hot".
+Ultra Cool - colder and cooler turns on much earlier.
+4ifir New - of actual 4ifir, at low temperatures as "cool", on high between "cool" and "silent".
+4ifir Old - from the old chifir, similar to the new but even faster spinning at low temperatures.
+Kefir - real retro, works almost always, at high temperatures comparable to "4ifir new".
