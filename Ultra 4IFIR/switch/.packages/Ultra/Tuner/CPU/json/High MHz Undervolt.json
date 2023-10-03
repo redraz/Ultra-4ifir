@@ -1,0 +1,27 @@
+[
+    {
+        "name": "0 Undervolt",
+        "hex": "00",
+        "color": "#999999"
+    },
+    {
+        "name": "1 Undervolt",
+        "hex": "01",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "2 Undervolt",
+        "hex": "02",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "3 Undervolt - Core",
+        "hex": "03",
+        "color": "#FFFFFF"
+    },
+    {
+        "name": "4 Undervolt - Stage",
+        "hex": "04",
+        "color": "#FFFFFF"
+    }
+]

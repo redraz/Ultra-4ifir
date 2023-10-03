@@ -1,0 +1,11 @@
+|----------| WARNING! |----------|
+This is a test function. Unsafe values may prevent booting
+into the OS.
+|----------| WARNING! |----------|
+
+Sets the undervolt mode for frequencies from 16XX MHz
+and lower.
+
+The higher the value, the more aggressive the CPU undervolt
+will be.
+

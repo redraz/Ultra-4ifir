@@ -1,0 +1,22 @@
+[
+    {
+        "name": "L+R+Up",
+        "hex": "L+R+DUP",
+        "color": "#FFFFFF"
+    },
+    {
+        "name": "L+Down+R3",
+        "hex": "L+DDOWN+RS",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "L2+R2+Down",
+        "hex": "ZL+ZR+DDOWN",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "Plus+Minus",
+        "hex": "PLUS+MINUS",
+        "color": "#CCCCCC"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Ultra - Silent",
+        "file-path": "/switch/.packages/Ultra/Updater/Setup/Backgroung Svc + FAN/services/Off Ultra Slient.ini",
+        "color": "#FFFFFF"
+    },
+    {
+        "name": "Ultra - Cool",
+        "file-path": "/switch/.packages/Ultra/Updater/Setup/Backgroung Svc + FAN/services/Off Ultra Cool.ini",
+        "color": "#FFFFFF"
+    },
+    {
+        "name": "4ifir - New",
+        "file-path": "/switch/.packages/Ultra/Updater/Setup/Backgroung Svc + FAN/services/Off 4ifir New.ini",
+        "color": "#FFFFFF"
+    },
+    {
+        "name": "4ifir - Old",
+        "file-path": "/switch/.packages/Ultra/Updater/Setup/Backgroung Svc + FAN/services/Off 4ifir Old.ini",
+        "color": "#FFFFFF"
+    },
+    {
+        "name": "Kefir - Retro",
+        "file-path": "/switch/.packages/Ultra/Updater/Setup/Backgroung Svc + FAN/services/Off Kefir Retro.ini",
+        "color": "#FFFFFF"
+    }
+]

@@ -1,0 +1,3 @@
+VDD2 - secondary voltage of memory. For Erista (v1) is also used as primary voltage of RAM.
+
+For most memory chips, increased voltages help to take higher frequencies, but there is a rare memory for which on the contrary - lowering helps overclocking.

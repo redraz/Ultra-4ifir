@@ -1,0 +1,4 @@
+Allows you to select the frame rate and bit rate for background system video recording. Higher FPS and bitrate - shorter recorded videos, and vice versa - lower FPS and bitrate - longer videos.
+
+20Mbs/60fps - 10 seconds
+5Mbs/30fps  - 5 seconds

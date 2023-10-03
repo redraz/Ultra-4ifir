@@ -1,0 +1,3 @@
+The RAM frequency directly affects the performance of games, as it is also a VRAM. 
+
+Too high frequencies can cause visual artifacts or even data damage, such as emuNAND.

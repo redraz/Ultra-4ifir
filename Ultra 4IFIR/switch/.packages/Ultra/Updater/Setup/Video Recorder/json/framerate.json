@@ -1,0 +1,12 @@
+[
+    {
+        "name": "60fps - Ultra",
+        "hex": "u32!60",
+        "color": "#FFFFFF"
+    },
+    {
+        "name": "30fps - Stock",
+        "hex": "u32!30",
+        "color": "#999999"
+    }
+]

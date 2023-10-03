@@ -1,0 +1,1 @@
+Allows you to unlock higher CPU frequencies, but does not guarantee that your CPU can reach them. To check the current frequency your CPU can reach, use the "mhz-1.0.0" homebrew.

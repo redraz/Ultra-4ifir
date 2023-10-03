@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Magic №0 - Do Not Adjust",
+        "hex": "00",
+        "color": "#666666"
+    },
+    {
+        "name": "Magic №1",
+        "hex": "01",
+        "color": "#999999"
+    },
+    {
+        "name": "Magic №2 - Erista",
+        "hex": "02",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "Magic №3 - Core",
+        "hex": "03",
+        "color": "#CCCCCC"
+    },
+    {
+        "name": "Magic №4 - Mega",
+        "hex": "04",
+        "color": "#FFFFFF"
+    },
+    {
+        "name": "Magic №5 - Ultra",
+        "hex": "05",
+        "color": "#FFFFFF"
+    }
+]
