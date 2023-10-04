@@ -1,7 +1,7 @@
 [
     {
         "name": "Core - Base  Like",
-        "cpuMV": "1160",
+        "cpuMV": "1140",
         "cpuUVlow": "01",
         "cpuUVhigh": "03",
         "gpu": "01",
@@ -19,7 +19,7 @@
     },
     {
         "name": "Mega - STX   Like",
-        "cpuMV": "1200",
+        "cpuMV": "1160",
         "cpuUVlow": "02",
         "cpuUVhigh": "04",
         "gpu": "02",
@@ -37,7 +37,7 @@
     },
     {
         "name": "Ultra - STX+ Like",
-        "cpuMV": "1220",
+        "cpuMV": "1180",
         "cpuUVlow": "03",
         "cpuUVhigh": "04",
         "gpu": "02",
@@ -50,12 +50,12 @@
         "t3": "05",
         "t4": "06",
         "t5": "05",
-        "t6": "03",
+        "t6": "04",
         "color": "#FFFFFF"
     },
     {
         "name": "Red - Custom+++",
-        "cpuMV": "1220",
+        "cpuMV": "1180",
         "cpuUVlow": "02",
         "cpuUVhigh": "04",
         "gpu": "02",
@@ -68,12 +68,12 @@
         "t3": "05",
         "t4": "06",
         "t5": "05",
-        "t6": "03",
+        "t6": "04",
         "color": "#FF3366"
     },
     {
         "name": "Green - Custom++",
-        "cpuMV": "1200",
+        "cpuMV": "1180",
         "cpuUVlow": "02",
         "cpuUVhigh": "04",
         "gpu": "02",
@@ -91,7 +91,7 @@
     },
     {
         "name": "Blue - Custom+",
-        "cpuMV": "1180",
+        "cpuMV": "1160",
         "cpuUVlow": "01",
         "cpuUVhigh": "03",
         "gpu": "02",
