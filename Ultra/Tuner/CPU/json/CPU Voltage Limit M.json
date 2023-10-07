@@ -2,7 +2,7 @@
 	{
         "name": "1100mV - Why?",
         "hex": "4C04",
-        "color": "#999999"
+        "color": "#CCCCCC"
     },
     {
         "name": "1120mV",
@@ -10,29 +10,29 @@
         "color": "#CCCCCC"
     },
     {
-        "name": "1140mV",
+        "name": "1140mV - Core",
         "hex": "7404",
         "color": "#CCCCCC"
     },
     {
-        "name": "1160mV - Core",
+        "name": "1160mV - Mega",
         "hex": "8804",
-        "color": "#FFFFFF"
+        "color": "#CCCCCC"
     },
     {
-        "name": "1180mV",
+        "name": "1180mV - Ultra",
         "hex": "9C04",
-        "color": "#FFFFFF"
+        "color": "#CCCCCC"
     },
     {
-        "name": "1200mV - Mega",
+        "name": "1200mV",
         "hex": "B004",
         "color": "#CCCCCC"
     },
     {
-        "name": "1220mV - Ultra",
+        "name": "1220mV",
         "hex": "C404",
-        "color": "#FFFFFF"
+        "color": "#CCCCCC"
     },
     {
         "name": "1235mV",
