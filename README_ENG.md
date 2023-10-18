@@ -1,6 +1,6 @@
 # Ultra 4IFIR
 
-[4IFIR Group on Telegram](https://t.me/For4ifir)
+[4IFIR Group on Telegram](https://t.me/UltraNX)
 
 **ATTENTION! The author is not responsible for the consequences of installing Ultra 4IFIR; you proceed at your own risk.**
 **However, based on my experience, console overclocking is completely safe for the console hardware, but it can pose risks to your data, game files, saves, or even damage system files. Therefore, it is highly recommended to use overclocking only on EmuNAND and always make timely save backups.**
