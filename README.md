@@ -1,3 +1,5 @@
+# Внимание! Ultra с релиза 1.5 переехала на новый [репозиторий](https://github.com/redraz/Ultra-4ifir) 
+
 # Ultra 4IFIR
 
 [4IFIR Group в Телеграме](https://t.me/UltraNX)
