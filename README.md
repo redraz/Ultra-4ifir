@@ -1,4 +1,4 @@
-# Внимание! Ultra с релиза 1.5 переехала на новый [репозиторий](https://github.com/redraz/Ultra-4ifir) 
+# Внимание! Ultra переехала на новый [репозиторий](https://github.com/Ultra-NX/Ultra) 
 
 # Ultra 4IFIR
 

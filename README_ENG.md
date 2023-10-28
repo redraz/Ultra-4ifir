@@ -1,3 +1,6 @@
+# Attention! Ultra moved to the new [repository](https://github.com/redraz/Ultra-4ifir) 
+
+
 # Ultra 4IFIR
 
 [4IFIR Group on Telegram](https://t.me/UltraNX)
